@@ -21,18 +21,39 @@ English | [简体中文](README_CN.md) | [Deutsch](README_DE.md)
 
 ## Installation
 
-### Option A: Copy the files manually
-Install a Rime frontend first, then copy the project files into its Rime user directory:
+Install the Rime frontend for your platform first, then follow the steps below to install this schema.
 
-| Platform / frontend | Rime user directory or action |
-| --- | --- |
-| Windows / Weasel | Right-click the Weasel tray icon and open **User Folder** |
-| macOS / Squirrel | Right-click the input menu icon and open **User Settings**; the folder is usually `~/Library/Rime` |
-| Linux / Fcitx5 | Usually `~/.local/share/fcitx5/rime`; install `fcitx5-rime` and Lua support first |
-| Linux / iBus | Usually `~/.config/ibus/rime`; install `ibus-rime` and Lua support first |
-| Android / Trime | Use Trime's user data directory and its import/deploy function |
+### iOS / Hamster3
 
-Keep this layout inside the user directory:
+1. Install and enable Hamster3, add the Hamster keyboard in iOS Settings, and enable **Allow Full Access** when prompted.
+2. Use Hamster3's schema manager or file import action to import this project. Preserve `yoce_de.schema.yaml`, `yoce_de.txt`, and `lua/yoce_de.lua` with the directory layout shown below.
+3. Select the `yoce_de` schema, refresh or deploy it, and test `du`, `dubist`, or `U-Bahn`.
+
+### Android / Trime
+
+1. Install and enable Trime, then grant it access to its Rime user directory. The default is usually `/rime` at the root of shared phone storage.
+2. Copy the project files into Trime's active Rime user directory, placing the Lua file in the `lua/` subdirectory.
+3. Add or select `yoce_de` in Trime's schema manager, deploy it, and switch to the schema to test it.
+
+### Windows / Weasel
+
+1. Install and enable Weasel. Open **User Folder** from the tray menu; the default is usually `%APPDATA%\Rime`.
+2. Copy `yoce_de.schema.yaml` and `yoce_de.txt` into that directory, and copy `lua/yoce_de.lua` into its `lua/` subdirectory.
+3. Choose **Deploy** from the tray menu, then select `yoce_de` in the schema switcher.
+
+### macOS / Squirrel
+
+1. Install and enable Squirrel. Open **User Settings** from the menu bar input icon; the default is usually `~/Library/Rime`.
+2. Copy `yoce_de.schema.yaml` and `yoce_de.txt` into that directory, and copy `lua/yoce_de.lua` into its `lua/` subdirectory.
+3. Choose **Deploy** from the menu, then select `yoce_de` in the schema switcher.
+
+### Linux / Fcitx5
+
+1. Install `fcitx5-rime` and a Lua-enabled `librime`, then add **Rime** in the Fcitx5 input method settings.
+2. Copy the project files into `~/.local/share/fcitx5/rime`, placing the Lua file in the `lua/` subdirectory.
+3. Choose **Deploy** from the Fcitx5 tray menu, then select `yoce_de`. Use the actual configured Rime directory if it differs.
+
+Regardless of the frontend, keep this layout inside the Rime user directory:
 ```text
 <rime-user-dir>/
 ├── yoce_de.schema.yaml
@@ -48,7 +69,7 @@ Then:
 
 The exact user directory and menu names vary by frontend. Do not put `yoce_de.lua` beside the schema; it belongs in the `lua/` subdirectory.
 
-### Option B: Install from the command line
+### Linux command-line example
 For a repository checkout, copy the same three files into the target Rime user directory. On Linux, the target can be selected explicitly:
 ```bash
 rime_dir="$HOME/.local/share/fcitx5/rime"

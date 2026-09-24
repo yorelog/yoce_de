@@ -21,18 +21,39 @@
 
 ## 安装
 
-### 方式一：手动复制文件
-先安装一个 Rime 前端，再把项目文件复制到对应的 Rime 用户目录：
+请先安装对应平台的 Rime 前端，再按下面的步骤安装本方案。
 
-| 平台 / 前端 | Rime 用户目录或操作 |
-| --- | --- |
-| Windows / 小狼毫 Weasel | 右键托盘区小狼毫图标，打开“用户文件夹” |
-| macOS / 鼠须管 Squirrel | 右键输入法菜单图标，打开“用户设定”；通常是 `~/Library/Rime` |
-| Linux / Fcitx5 | 通常是 `~/.local/share/fcitx5/rime`；先安装 `fcitx5-rime` 和 Lua 支持 |
-| Linux / iBus | 通常是 `~/.config/ibus/rime`；先安装 `ibus-rime` 和 Lua 支持 |
-| Android / Trime | 使用 Trime 的用户数据目录和导入/部署功能 |
+### iOS / Hamster3 元书输入法
 
-用户目录中应保持以下结构：
+1. 安装并启用 Hamster3，在系统设置中添加 Hamster 键盘；按系统提示开启“允许完全访问”。
+2. 在 Hamster3 的方案管理或文件导入功能中导入本项目文件，保持 `yoce_de.schema.yaml`、`yoce_de.txt` 和 `lua/yoce_de.lua` 的目录结构。
+3. 选择 `yoce_de` 方案，刷新或重新部署，然后在键盘中测试输入 `du`、`dubist` 或 `U-Bahn`。
+
+### Android / Trime 同文输入法
+
+1. 安装并启用 Trime，授权其使用 Rime 用户目录；默认目录通常为手机存储根目录下的 `/rime`。
+2. 将本项目文件复制到 Trime 当前使用的 Rime 用户目录，Lua 文件放入 `lua/` 子目录。
+3. 在 Trime 的方案管理中添加或选择 `yoce_de`，执行“部署”，再切换到该方案测试输入。
+
+### Windows / Weasel 小狼毫
+
+1. 安装并启用 Weasel，右键托盘区图标，打开“用户文件夹”；默认通常为 `%APPDATA%\Rime`。
+2. 将 `yoce_de.schema.yaml` 和 `yoce_de.txt` 复制到该目录，并将 `lua/yoce_de.lua` 复制到 `lua/` 子目录。
+3. 从托盘菜单执行“重新部署”，再在方案选单中选择 `yoce_de`。
+
+### macOS / Squirrel 鼠须管
+
+1. 安装并启用 Squirrel，点击菜单栏输入法图标，打开“用户设定”；用户目录通常为 `~/Library/Rime`。
+2. 将 `yoce_de.schema.yaml` 和 `yoce_de.txt` 复制到该目录，并将 `lua/yoce_de.lua` 复制到 `lua/` 子目录。
+3. 从菜单执行“重新部署”，再在方案选单中选择 `yoce_de`。
+
+### Linux / Fcitx5
+
+1. 安装 `fcitx5-rime` 和带 Lua 支持的 `librime`，在 Fcitx5 输入法设置中添加“中州韵”。
+2. 将本项目文件复制到 `~/.local/share/fcitx5/rime`，Lua 文件放入 `lua/` 子目录。
+3. 从 Fcitx5 托盘菜单执行“重新部署”，再选择 `yoce_de`。如果使用自定义 Rime 目录，请以实际目录为准。
+
+无论使用哪种前端，用户目录中都应保持以下结构：
 ```text
 <rime-user-dir>/
 ├── yoce_de.schema.yaml
@@ -48,7 +69,7 @@
 
 不同前端的用户目录和菜单名称可能不同。`yoce_de.lua` 必须放在 `lua/` 子目录中，不能和 Schema 放在同一层。
 
-### 方式二：命令行复制
+### Linux 命令行复制示例
 如果当前目录是项目源码，可以用命令行复制。下面以 Fcitx5 为例：
 ```bash
 rime_dir="$HOME/.local/share/fcitx5/rime"
