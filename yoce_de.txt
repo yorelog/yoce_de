@@ -1,0 +1,5401 @@
+schön	beautiful
+schon	already
+über	over
+für	for
+grün	green
+straße	street
+groß	big
+tschüss	bye
+danke	thank you
+bitte	please
+hallo	hello
+ja	yes
+nein	no
+ich	I
+bin	is
+du	you
+bist	are
+er	he
+sie	she
+wir	we
+ihr	you (plural)
+klein	small
+müde	tired
+brauche	need
+eine	a
+Pause	break
+Guten	good
+Tag	day
+jeden	every
+Abend	evening
+gehe	go
+aber	but
+auch	also
+heute	today
+arbeiten	work
+hast	have (you)
+habe	have (I)
+Spaß	fun
+gestern	yesterday
+früh	early
+und	and
+Kuchen	cake
+mit	with
+Überstunden	overtime
+nicht	not
+sehr	very
+toll	great
+Möchtest	would you like
+essen	eat
+hund	dog
+U-Bahn	subway
+das	that
+die	who
+der	who
+was	what
+zu	closed
+ein	a
+in	on {prp}
+mir	me
+wie	as
+den	who
+mich	me
+auf	on {prp}
+dass	that
+so	in this way
+hier	here
+haben	credit side
+von	from (express origin)
+wenn	if
+dich	you
+an	on {prp}
+noch	to have yet to …(in positive assertions)
+nur	other than (in negative sentences)
+da	when (point in time)
+dir	you
+sich	each of two or more
+uns	ourselves
+dem	the
+gut doctoral examination
+als	when 
+sein	to give sth.
+mal	time
+jetzt	now
+ihn	he (him)
+dann	then (temporal)
+aus	out of bounds /ob/ (golf)
+meine	mine
+um	round
+mein	my
+doch	but
+alles	the lot [coll.]
+keine	no (not one)
+oder	waving polyp
+nach	on {prp}
+nichts	emptiness
+man	one
+werden	development
+ihnen	you (polite form)
+wo	when
+etwas	something
+mehr	increase (in)
+bei	address
+also	so
+immer	always
+warum	why
+vor	shy {adj}
+los	batch (manufacturing unit)
+wieder	afresh
+sagen	legend
+machen	tender [Br.]
+alle	all
+denn	so (prepositive)
+mann	husband
+tun	doing
+ihm	he (him)
+zum	to (expressing directional movement)
+gehen	walking
+sehen	eyesight
+vielleicht	perhaps
+wer	who
+ihre	yours
+diese	such
+euch	you
+einer	unit
+gibt	to give {gave
+okay	okay
+wissen	knowledge {no pl}
+deine	yours
+soll	target
+nie	hardly ever
+wirklich	genuinely
+kein	no 
+viel	much
+weg	errand
+tut	to do sth.
+des	D
+einfach	low-level
+leben	life
+zeit	time of (the) day
+weil	because
+kommen	orgasm
+dein	yours
+kommt	to happen to sb.
+wollen	volition
+damit	thereby
+ganz	all of {+ singular}
+ok	all right
+sicher	certain
+gesagt	to say sth. {said
+frau	woman
+nun	now
+bis	pending (an event)
+leid	woe
+na	no
+macht	sway [formal]
+dieser	such
+lassen	to leave {left
+meinen	to think
+gott	God
+seine	his
+zwei	a brace of (a pair)
+genau	particular
+waren	piece of merchandise
+klar	egg-white
+morgen	morning
+leute	people /ppl/
+vater	progenitor
+glaube	faith
+ab	off sth.
+gerade	at this moment
+gesehen	to see sth. {saw
+reden	speech
+wohl	sb.’s welfare
+liebe	love
+sollte	to merit sth.
+unsere	our
+jemand	anyone
+geld	money
+durch	by means of
+ob	whether
+mutter	mother
+gemacht	to do sth.
+paar	pair
+passiert	to happen (unexpectedly)
+besser	Bessi
+wieso	why
+dieses	such
+selbst	in person
+ohne	un…
+meiner	mine
+helfen	to do the trick [coll.]
+nacht	night
+finden	to find {found
+gute	good guy
+lange	long
+ach	oh
+gar	done
+sei	be (wishing mood)
+dort	there
+weiter	broad
+geben	to perform sth.
+seit	since
+gleich	in the first place
+recht	right
+richtig	fair
+ordnung	orderliness
+sieht	to view
+davon	thereof
+wegen	due to
+sollen	shall
+haus	establishment
+denke	way of thinking
+viele	many
+drei	(number) three
+freund	friend
+unser	our
+warte	attendant
+menschen	people /ppl/
+angst	fear (of sth.)
+bleiben	to last
+zusammen	together
+welt	realm [fig.]
+unter	jack
+schnell	slippy
+andere	alternative
+tot	life
+getan	to do sth.
+erst	barely
+rein	sheer
+stimmt	to vote
+nehmen	(medicinal) drug
+kinder	child
+eines	one thing
+glauben	belief (in)
+bringen	to televise sth.
+ganze	whole
+genug	sufficient
+brauchen	to take sth.
+gegen	about
+moment	moment
+junge	boy
+sonst	otherwise
+musik	music
+arbeit	work
+seid	be (wishing mood)
+ihrer	hers
+fragen	public affairs
+herr	taskmaster
+dabei	with it (of a thing)
+familie	family circle
+warten	viewpoint
+niemand	no one
+sofort	immediately
+bevor	before
+jahre	year
+einmal	once
+problem	problem
+sohn	son
+wann	when
+fertig	beat [slang]
+halt	stop
+allein	alone
+beim	near
+sprechen	speaking
+beide	both
+gefunden	to find {found
+sache	affair
+hilfe	help
+verdammt	damned [slang]
+ne	no
+jeder	some
+gern	gladly
+halten	retention of sb./sth.
+kam	to happen to sb.
+kind	child
+wahr	real
+dazu	to it
+bruder	brother
+daran	at it
+denken	thought
+dank	thanks
+fall	case
+egal	never mind
+vergessen	forgetfulness
+frage	question
+mache	sham
+sage	legend
+echt	devout
+eigentlich	by the way
+gab	to perform sth.
+uhr	clock
+stadt	town
+baby	baby (young infant)
+fahren	driving
+namen	name
+bekommen	to receive sth.
+kopf	tracking head (audio, video)
+kleine	kiddie
+letzte	ultimate
+freunde	friend
+all	universe
+darauf	on (sth.)
+ende	termination
+bald	soon
+dinge	thing
+eins	(number) one
+minuten	minute /min./
+bereit	handy
+weit	ample
+ahnung	idea
+auto	car
+eure	Eure (river)
+augen	eye
+stehen	to be on
+sterben	death
+fast	almost
+runter	down
+vorbei	over
+treffen	meeting
+gerne	readily
+wurden	will
+neue	new member
+hinter	behind
+sorgen	worry
+einzige	the only thing
+darum	reason
+tochter	daughter
+idee	idea
+schwester	sibling
+drin	within
+ruhig	even
+sah	to view
+ziemlich	fairish
+name	name
+sogar	actually
+kurz	momentarily
+kerl	guy [coll.]
+frauen	woman
+liegt	to rest
+suchen	to prospect (for)
+je	ever
+woher	wherefrom {conj}
+lang	oblong
+job	casual employment
+keiner	not any
+verstehen	comprehension
+spielen	play (enjoyment activity)
+teufel	devil
+verstanden	to interpret sth.
+verloren	to shed sth. {shed
+hand	hand
+grund	motive
+jahr	year
+mama	mum [Br.]
+ruhe	lull (period without much activity)
+gewesen	to be {was/were
+tod	quietus
+stunden	lesson
+oben	upstairs (adverbial of place)
+versuchen	to tempt
+art	kind
+schatz	darling
+endlich	terminating
+etwa	for example /e.g./
+schwer	punishing
+anders	in other ways
+wasser	eau
+erste	first
+versucht	to try sth.
+gekommen	to pitch up [Br.] [coll.]
+geschichte	tale
+wenig	little
+holen	to bring in ⇆ sb. (to an organization)
+bedeutet	to mean {meant
+nett	pleasant
+wahrheit	verisimilitude
+woche	week
+bringt	to convey sth. [formal] (from / to a place)
+deshalb	therefore
+welche	who
+bestimmt	to analyse [Br.]
+hoch	high
+alter	antiqueness
+schau	fair
+ah	oh
+land	(federal) state
+zimmer	room /rm/
+wagen	car
+vier	four
+gefallen	to please sb.
+niemals	hardly ever
+schuld	guilt
+verlassen	to fail sb. (of a thing)
+zeigen	to televise sth.
+beste	best
+ernst	earnestness
+unserer	ours
+denen	those
+ort	locality
+manchmal	sometimes
+seite	spin (of a matter) [fig.]
+zwischen	betwixt
+eben	exactly
+spiel	bearing play
+chance	opportunity
+freundin	friend
+krieg	war
+anderes	other
+tage	day
+wichtig	major
+bett	bed
+sachen	equipment
+schlecht	evil
+schule	school
+entschuldigung	excuse
+wort	word
+typ	type
+schlafen	to sleep
+euer	your
+captain	team captain
+gesicht	facies
+falls	lest [formal]
+neuen	new member
+unten	down
+teil	portion
+mensch	human
+kleiner	kiddie
+stellen	position of employment
+oft	often
+sorge	worry
+gedacht	to reckon [Br.] (think or suppose)
+trinken	drinking
+einige	a few
+dies	this
+ding	contraption
+kriegen	tag (game)
+blut	blood
+ehrlich	sincere
+eltern	parent
+herz	heart
+alt	alto
+wiedersehen	reunion
+frei	ad lib
+wen	who
+irgendwie	somehow
+reicht	to last
+fest	celebration
+besten	best
+waffe	arms
+kaum	hardly
+irgendwas	anything
+klingt	to clink
+platz	room
+rede	speech
+papa	daddy
+falsch	recreant
+sondern	but
+nummer	issue
+jungen	boy
+wohin	where
+setzen	bet (gambling)
+zuerst	at first
+wahrscheinlich	probable
+jede	every
+arsch	ass [Am.]
+telefon	customer hotline
+willkommen	welcome
+plan	concept
+hierher	hither [dated]
+fehler	mistake
+dollar	dollar (currency)
+zehn	(number) ten
+pass	pass (for using a service)
+stunde	lesson
+gegeben	to slip into the role of sb.
+menge	batch
+langsam	steady
+bereits	as early as
+sechs	(number) six
+lieben	to love
+meines	mine
+wochen	week
+ruf	reputation
+schaffen	tub
+leider	worse luck [Br.]
+trotzdem	anyway
+doktor	medical doctor /M.D./
+tja	oh well
+voll	at full blast
+film	picture
+geworden	to develop (from sth.)
+direkt	hand
+tat	act
+schiff	ship
+wem	who
+danach	after it
+funktioniert	to go {went
+lernen	learning
+deswegen	reason
+nennen	to clepe
+hm	hem
+feuer	mettle
+laufen	jogging
+alleine	alone
+stelle	position of employment
+kumpel	mine worker
+verlieren	(single) game
+probleme	problem
+kaffee	coffee
+luft	elbow room
+ziehen	to gain traction [fig.]
+verschwinden	dying-out
+suche	search
+buch	book
+krank	messed-up
+jedes	anything
+wert	worth
+arzt	medical doctor /M.D./
+froh	joyous
+versuche	experiment
+rufen	to call in ⇆ sb.
+heiraten	marrying
+super	great
+gutes	good
+onkel	uncle
+total	flat out
+gebracht	to televise sth.
+party	bash [coll.]
+spielt	to perform sth.
+wahl	ballot
+vertrauen	faith (in)
+damals	occasion
+tagen	to be in session
+leicht	unexacting
+nachdem	after
+gegangen	to join sb.
+kaufen	buying
+geschafft	beat [slang]
+typen	type
+interessiert	bright-eyed
+halte	stopping point
+irgendwo	somewhere
+genauso	just the same
+genommen	to take sth.
+zukunft	destiny
+weniger	little
+cool	fierce [coll.] 
+licht	lighting
+getroffen	target
+himmel	(cloth) canopy
+nachricht	news
+passt	to be suitable (for sb.)
+laut	ejaculation [humor.] [dated]
+angerufen	to appeal (to)
+sitzen	jug
+erde	Earth
+rest	tail
+passieren	to happen (unexpectedly)
+eher	more likely
+gefragt	sought
+opfer	dweeb [Am.] [coll.]
+solche	such
+mist	refuse
+schreiben	letter
+gesprochen	conversational
+versuch	experiment
+vorstellen	showcasing
+wovon	whereof
+sobald	as soon as
+herren	taskmaster
+sex	sexual intercourse
+waffen	armament
+weh	ache
+krankenhaus	hospital
+millionen	million /m/
+klasse	social class
+hart	punishing
+worden	will
+sinn	meaning
+verletzt	to break sth. 
+erfahren	experience
+tragen	stretcher
+wenigstens	at least
+vorsichtig	discreet
+stolz	ego
+stark	pronouncedly
+besonders	individual
+schicken	to dispatch sb. (to a place)
+person	character
+solange	so long as
+anrufen	to appeal (to)
+stand	profession
+erwartet	to wait for sth.
+boden	soil (ground layer of earth)
+boss	top dog [coll.]
+stimme	sheet music
+still	hushed
+sicherheit	certitude
+ma	Wow
+mund	mouth
+lachen	sounds of laughter
+zeug	(a person’s) equipment
+lustig	hilarious
+umbringen	to liquidate sb.
+sollst	shall
+schlimm	bad
+unglaublich	staggering
+laden	chest
+gestorben	dead
+schauen	fair
+meinung	view (about/of/on sth.)
+lesen	picking
+geschehen	events
+idiot	dumbass
+verzeihung	forgiveness
+fliegen	mayfly
+team	the fold
+vorher	before
+schluss	closure (of a letter/debate)
+schneller	loom driver
+verdient	deserved
+umgebracht	to liquidate sb.
+perfekt	present perfect tense
+versprochen	to expect sth. of sth.
+hinten	aft
+monate	month /mo./ /mth/
+acht	eight
+fallen	drop
+rufe	telephone call
+a	A
+mord	murder
+heraus	out
+liebling	darling
+folgen	implication (for sb./sth.)
+bitten	request
+behalten	retention of sb./sth. (continued control
+verdammte	to condemn
+tisch	table
+michael	Mikhail (male given name)
+jemals	ever
+liegen	couch
+verkaufen	selling
+anfangen	to tee off [fig.]
+machte	to do sth.
+hotel	hotel
+hilft	to second
+meister	professional (in an activity)
+kampf	fight
+antwort	(written) answer
+geschickt	agile
+obwohl	although
+sieben	(number) seven
+komisch	droll
+gewinnen	to mine
+ihres	hers
+bezahlt	to fund
+unterwegs	way of transportation
+dumm	annoying
+bild	picture
+george	Georgian
+neu	recent
+bezahlen	payment (of sth.) (process)
+dagegen	contrast
+seien	be (wishing mood)
+leiche	dead body
+auge	eye
+arschloch	shithead
+verheiratet	to couple
+gerettet	to save sb./sth. from harm
+agent	agent
+traum	dream
+entscheidung	decision (on sth.)
+schlimmer	worse
+regeln	rule
+fenster	(fixed inserted) box
+fangen	tag (game)
+fort	fort
+gefahr	threat
+absolut	single
+augenblick	moment
+bescheid	administrative notice
+rum	rum
+gedanken	thought
+ziel	bourn
+benutzt	to use sb.
+bewegung	physical exercise
+worte	word
+welcher	who
+zahlen	number
+anfang	commencement
+legen	to situate
+anwalt	procurator
+offen	open-minded
+arme	arm
+bier	beer
+partner	partner
+klappe	clapperboard
+herum	around
+ehe	marriage
+rolle	role
+gleiche	like
+monat	month /mo./ /mth/
+hochzeit	marriage ceremony
+paris	Paris (capital of France)
+wach	awake
+wozu	reason
+arm	arm
+geschrieben	to write in (to an organization) with sth.
+chef	chief
+benutzen	to use sth.
+informationen	piece of information
+erledigt	to finish sth.
+hoffentlich	I hope so
+tanzen	dancing
+ansehen	good reputation
+zuhause	home
+wunderbar	prodigious
+reise	trip
+gewonnen	to mine
+dame	lady
+irgendwann	sometime
+steckt	to put {put
+jedenfalls	anyhow
+schreit	to bawl
+nennt	to term sth.
+raum	room
+foto	picture
+kalt	cold
+irgendetwas	anything
+weile	while
+bisher	until
+minute	minute of arc
+unbedingt	conditionally
+zug	strain
+sekunden	second
+beweise	proof (of sth.)
+aller	all
+seele	barrel bore
+dauert	to last
+brief	letter
+gelernt	skilled
+sucht	addiction (to sth.)
+bekannt	known
+weitere	further details {pl}
+unfall	accident
+dahin	there
+kontrolle	control
+beispiel	example (of sth.)
+lady	Lady
+dasselbe	identical
+herzen	heart
+schlagen	fell
+weise	way
+damen	lady
+darin	therein
+vorsicht	care
+beweisen	to prove {proved
+gehabt	to hold
+zumindest	at a/the minimum, at least
+vermisst	military action
+verbindung	bedfellows [fig.]
+tief	depression
+richtung	line
+lage	coat
+sowieso	anyhow
+kraft	worker
+normal	standard
+lauf	launder
+ehre	credit (public acknowledgement)
+geschenk	present
+bar	bar
+tasche	recess
+gelesen	to harvest sth.
+gekauft	to buy sth. {bought
+gestohlen	to steal {stole
+hunger	appetite (for)
+beziehung	relation (with sb.)
+verschwunden	to perish (disappear or be destroyed)
+gearbeitet	to work {work
+preis	award (for sb.’s merits)
+witz	esprit
+liste	laundry list [coll.]
+geist	spirit (non-physical phenomenon)
+neben	by
+gesucht	to prospect (for)
+schrecklich	parlously
+letzter	ultimate
+verliebt	to fall in love with sb.
+redet	to discourse (on/about sth.)
+boot	boat (small vessel)
+seltsam	extraordinary
+versteckt	obliquely
+erwischt	to catch sb. (at)
+verkauft	to purvey sth. [formal]
+tante	aunt
+erwarten	to wait for sth.
+pferd	horse
+wunder	wonder
+sauer	sour (taste sensation)
+vermutlich	supposed
+major	Wing Commander (rank) [Br.]
+jung	young
+aussehen	appearance
+links	left /l./
+welches	who
+geboren	to bear {bore
+erreichen	achievement
+punkt	rating point
+kirche	church service
+verraten	to blab sth.
+selber	oneself
+befehl	order
+zieht	to grow {grew
+geburtstag	birthday
+haut	skin (of smaller/young animals)
+wette	bet
+reich	empire
+sekunde	second
+geredet	to discourse (on/about sth.)
+james	James
+madame	Madame
+eigene	own
+zeiten	time
+traurig	sorrowful
+anruf	challenge (order from a guard/sentry to stop and prove identity)
+nachrichten	news
+frieden	peace
+karte	pass (for using a service)
+diesmal	time
+kriege	war (on/against sb./sth.)
+bleibe	a place to stay
+sonne	sun
+lieb	kind
+letztes	last
+ruft	to cry (for)
+professor	wonk [Am.] [coll.]
+gericht	law court
+nase	lug
+ewig	perpetual
+singen	singing
+bank	bank
+computer	computer
+toten	fatality (statistics)
+weihnachten	Christmas
+offensichtlich	clear
+naja	well
+show	show
+geheimnis	secret
+kontakt	contact
+gold	gold
+drogen	addictive substance
+regierung	government /Gov./ /Govt./
+wein	wine
+ermordet	to murder sb.
+fotos	picture
+entfernt	to take off ⇆ sth.
+geschlafen	to sleep {slept
+manche	some
+erledigen	to finish sth.
+schlaf	sleep
+lust	zest
+witzig	funny
+heim	home
+namens	by the name of
+zeigt	to evidence sth.
+geliebt	beloved
+brachte	to convey sth. [formal] (from / to a place)
+blick	sight
+besuch	visit (to a place or institution)
+bewegen	moving
+haare	hair
+antworten	answer
+hoffnung	hope (for sth.)
+stecken	stick
+rechts	right
+interessant	intriguing
+entscheiden	to decide
+miteinander	with each other
+indem	by …+ing
+wohnen	housing
+kaputt	whacked [Br.] [coll.]
+flugzeug	aeroplane [Br.]
+vergangenheit	past
+anderer	other
+zweite	runner-up
+armee	army
+jim	James
+tee	tea
+entweder	either
+don	Don (river)
+aufhalten	detention (of a thing)
+stellt	to provide sth. (to/for sb.)
+sauber	above board
+mark	pulp
+schlag	fell
+sheriff	sheriff
+untertitel	titles (film, TV)
+setzt	to place
+gesellschaft	society
+verstecken	hiding
+schuldig	guilty
+hals	neck
+besuchen	to attend sth. (on a regular basis)
+passen	ballpark [coll.]
+erhalten	receipt
+teilen	to partition
+schicksal	destiny
+zeichen	sign
+richter	judge
+besorgt	apprehensive
+lief	to walk
+volk	people of an area
+herausfinden	to establish
+soldaten	soldier
+feiern	celebration
+situation	situation
+lag	to rest
+gelassen	equanimous
+allerdings	indeed
+soweit	as far as
+gefahren	threat
+verstand	common sense
+bord	board
+angefangen	to take to sth.
+lee	lee
+bob	bobsleighing [Br.]
+rat	advice
+worauf	whereupon
+gebeten	to ask (for)
+kamera	still camera
+achtung	regard
+ganzes	whole
+schuhe	footwear
+statt	instead of
+gegend	district
+wald	wood
+erkennen	recognition
+glas	spectacles glass
+verantwortlich	answerable
+herein	in (here)
+kleid	livery
+jawohl	that’s right
+london	London
+gegessen	to eat {ate
+abendessen	supper
+gesetz	Act (of Parliament) [Br.]
+gemeinsam	common
+geholfen	to help out ⇆ sb. (with sth.)
+erster	first
+schritt	crotch
+nahe	shot size
+beginnen	incipience
+band	tape
+aufgabe	job
+neun	(number) nine
+furchtbar	dire
+drinnen	indoors
+zuvor	before /b4/
+amerika	America
+spur	traffic lane
+melden	saltbushes
+werfen	to fawn
+erinnert	to be evocative of sth.
+freude	joy
+ehemann	husband
+erschossen	to be worn out
+verzeihen	to excuse sth.
+schwein	pig
+monster	monster
+entschieden	emphatic
+mission	mission
+brauch	custom
+gewusst	to know about sth. {knew
+vorne	at the front
+stopp	stop
+schlampe	floozie
+adresse	address
+unsinn	bosh [coll.]
+messer	knife
+gesund	healthy (in good health or not diseased)
+respekt	respect (for sb./sth.)
+pro	per
+leisten	guide rail
+davor	in front (of it/that/them)
+bedeuten	to mean {meant
+ball	ball
+mitnehmen	to take sth. on board [fig.]
+gespielt	to slip into the role of sb.
+schwierigkeiten	bother
+planeten	planet
+schwanger	pregnant
+gruppe	array
+verhaftet	to arrest sb.
+deal	deal
+irgendwelche	any
+versteht	to comprehend
+drehen	turning
+eis	E
+danken	to say thanks
+erfolg	success
+zufrieden	pleased (of a person)
+besorgen	to procure sth. for sb.
+wochenende	weekend
+stimmen	voice
+witze	gag
+beine	leg
+verbrechen	foul play
+bericht	journalistic piece
+nachts	at night
+prinzessin	princess
+schmerz	grief
+klingelt	to ring {rang
+position	function
+gleichen	to parallel sth.
+fernsehen	television
+gefangen	to field
+schwierig	awkward
+angebot	(written) offer
+nah	near
+gewartet	to wait (for
+ring	annulus
+rennen	running
+lied	song
+eier	egg
+welchen	who
+fantastisch	stupendous
+hielt	to halt
+falle	decoy
+drink	tipple [Br.] [coll.]
+insel	island
+dauern	duration
+daher	hence
+dorf	village
+bewegt	to move sb. to sth.
+mitten	middle
+bullen	cop
+feind	adversary
+einverstanden	okay
+neuer	new
+bauen	constructing
+deren	whose
+halb	half /hf/
+verpasst	to miss sth.
+leise	hushed
+unternehmen	company
+kostet	to taste sth.
+spiele	(single) game
+unseres	ours
+versprechen	promise
+tiere	animal
+freiheit	liberty
+unterhalten	to maintain
+eingeladen	to invite sb.
+schaden	impairment
+genannt	alias
+beenden	to cease
+geschlagen	to ping
+park	park /Pk/
+beginnt	to start sth.
+ehren	to dignify
+energie	pep (of a person)
+fleisch	meat
+besonderes	special feature
+besteht	to insist on sth.
+reichen	to proffer sb. sth. / sth. to sb. [formal]
+worum	about what
+nachgedacht	to have a think
+betrunken	drunk
+patienten	patient
+leiden	sorrow
+taxi	taxi
+see	inland lake
+unterschied	contrast (with
+wind	blast (metallurgy)
+schreien	to roar
+wand	dividing wall
+bus	bus
+angriff	aggression
+verhalten	manner
+loch	drill hole
+interesse	care
+treten	to step
+quatsch	bosh [coll.]
+polizist	police officer
+blumen	flower
+neuigkeiten	news
+flasche	bottle
+rief	to cry (for)
+schuss	shoot
+fassen	gem
+meer	riot (of sth.)
+maschine	aeroplane [Br.]
+bein	leg
+verbringen	to move sth. (to a place)
+tommy	Tommy
+meter	metre [Br.]
+bilder	picture
+aufpassen	to pay attention to sth.
+dessen	whose
+engel	angel
+offenbar	confessedly
+gelegenheit	occasion
+fang	take
+ohren	ear
+au	alluvial flat
+angetan	pleased (of a person)
+brechen	breaking
+zeitpunkt	date
+ecke	corner kick
+druck	buffeting (of sb.) [fig.]
+mitgebracht	to bring sth.
+seufzt	to sigh
+date	date
+haufen	cluster
+oma	grandma
+auftrag	job
+leer	blank
+entkommen	getaway
+wart	attendant
+irre	madman
+gestellt	to provide sth. (to/for sb.)
+keller	cellar
+gebrochen	to disown sb.
+weinen	crying
+nutzen	cutout
+maul	mouth (of an animal)
+verantwortung	responsibility
+schloss	palace
+hut	stiff hat
+grad	degree
+hinaus	out
+mitkommen	to tag along
+vorhin	earlier
+fahrt	journey [Br.]
+gemeint	to refer to sb./sth.
+ernsthaft	in earnest
+gebaut	to build sth. {built
+bombe	bomb
+hasst	to abhor
+kosten	outlay
+eigenes	own
+haar	hair
+jason	Jason (a hero in Greek mythology)
+operation	action
+befehle	order
+schmerzen	pain
+dach	GSA (acronym for Germany, Switzeröand, Austria)
+folge	succession
+gelaufen	to go (recurrent event)
+schwarze	black
+dankbar	grateful
+gehirn	brain
+mut	courage
+heilige	saint
+tier	beast
+system	stave [Br.]
+wahnsinn	madness
+nee	no
+rose	rose
+club	club
+geschlossen	joint (between two structural elements)
+hintern	buttock(s) [med.]
+thema	issue
+fiel	to drop (of a thing)
+gehalten	to kennel a dog/dogs
+dorthin	there
+urlaub	leave
+steig	via ferrata
+beweis	proof (of sth.)
+baum	tree
+funktionieren	to go {went
+anscheinend	prima facie
+lehrer	instructor
+hoffen	to hope
+nachmittag	afternoon
+risiko	hazard
+knast	jug
+entschuldigt	absent
+held	good guy
+daraus	out of it
+erstes	first
+prima	hunky-dory {adj} [coll.]
+gewalt	power
+liebes	kiddo
+nachdenken	thinking
+tor	fool
+erfahrung	experience
+jagen	to rout sb. (out) of sth.
+katze	cat
+runde	lap
+deutsche	German
+schwanz	tail
+taten	deed
+lord	Lord /Ld./ [Br.]
+dringend	to insist on sth.
+sommer	summer
+gezeigt	to televise sth.
+hinterlassen	to leave behind
+gewissen	conscience
+getrunken	to suckle
+luke	airlock
+kunden	customer
+kate	croft
+zeugen	witness
+geplant	to design
+erreicht	to reach sb.
+stein	stone [Br.]
+atmen	respiration
+hose	(pair of) trousers [Br.]
+schickt	to send {sent
+city	inner city
+prinz	prince
+behandelt	to work on sth.
+tote	deceased
+karten	pass (for using a service)
+d	D
+restaurant	eating house
+welchem	who
+natur	nature (natural environment)
+mami	ma
+streit	contestation
+sprich	to wit [adm.]
+erlaubt	to allow for sth.
+bad	swim
+schmeckt	to taste (of)
+kugel	bowl
+normalerweise	normally
+schwarzen	black
+flug	run (regular journey)
+beruhigen	to calm
+halbe	half /hf/
+dan	Dan
+einiges	a thing or two
+entdeckt	to sniff out ⇆ sth. [fig.]
+morgens	in the morning
+schlechter	worse
+vollkommen	altogether
+gelogen	to lie {lied
+verfolgt	to watch sth.
+louis	procurer
+eh	anyhow
+schwert	sword
+hunde	mine car
+steigen	crate
+verdammter	condemned
+riecht	to smack of sth.
+labor	lab
+mindestens	at a/the minimum, at least
+fisch	fish
+versuchte	to tempt
+zustand	trim
+wunsch	request
+farbe	paint
+einigen	to unify
+zufall	tyche
+garten	garden
+autos	car
+abgesehen	to refrain from sth.
+fair	fair
+vertraut	privy
+koffer	dumbass
+kurs	share price
+wirkt	to take effect
+idioten	dumbass
+netter	neat
+seitdem	since
+angegriffen	affected
+geschichten	tale
+wahnsinnig	frenzied
+aufgeben	dispatch
+england	England
+mistkerl	wretch
+geschossen	to loose off
+lager	depository
+besprechen	to talk about
+reihe	run
+vogel	bird
+legt	to place
+strand	beach
+amerikaner	American
+schwarz	black (colour)
+fern	remote
+fick	fuck
+scherz	pleasantry
+wichser	shithead
+langweilig	unexciting
+womit	whereby
+my	Mu
+kapiert	to get sth.
+nachher	after it
+verlangt	to requisition
+irgendjemand	anyone
+rot	hearts (playing card suit)
+soldat	soldier
+vorbereitet	set-piece
+reisen	trip
+termin	date of childbirth
+gang	passageway
+stehlen	thieving
+rechte	right (to sth.)
+rache	revenge
+bemerkt	to remark (to sb.) that …
+radio	radio (broadcasting medium)
+pferde	horse
+vertrag	treaty
+dienst	service (activity area of public administration)
+wesen	sb.’s disposition
+fluss	outflow
+woran	whereof
+geblieben	to last
+durcheinander	chaos
+test	testing and passing
+dadurch	thereby
+direktor	director /Dir./ /dir./
+wichtiger	big
+karriere	career
+akte	act (division of a work for the stage)
+erinnerung	memory
+bravo	bravos
+griff	stop
+verfolgen	tracking
+zweifel	qualm
+sprache	diction (of a person or a text)
+nerven	nerve
+entlassen	to decruit
+zweimal	twice
+abholen	collection
+kollegen	colleague
+fass	barrel
+szene	tableau
+scheinen	to shine {shone
+pflicht	duty
+wache	police station
+neulich	recently
+knie	knee
+lauter	noisy
+unschuldig	artless
+folgt	to tail sb.
+schutz	defence [Br.]
+weshalb	why
+geheiratet	to marry sb.
+woanders	somewhere else
+verhindern	to inhibit
+video	video recording
+rom	Sinti and Roma
+klug	intelligent
+verlangen	requisition
+opa	grandfather
+aufstehen	ambulation [formal] (of a patient)
+hassen	mobbing (in animals)
+gebrauchen	to use sth.
+geglaubt	to credit sth. 
+milch	milk
+gefeuert	to loose off
+erinnerungen	memory
+kochen	boil
+schwach	waterily
+schulden	arrears
+grenze	limit
+braut	bride
+gebraucht	cast-off [Br.]
+peinlich	embarrassing
+geheimnisse	secret
+aufmerksamkeit	attentiveness
+form	baking dish
+umsonst	in vain
+nirgendwo	nowhere
+meilen	mile
+einfacher	a short [Br.]
+mond	moon
+daten	data
+merken	memory retention
+schande	dishonour [Br.]
+sieg	victory
+satt	bucketloads of
+pfund	pound /lb./
+handeln	to trade
+enden	tail
+warm	cordial
+raten	rate
+kunst	art
+einsatz	effort
+schweigen	silence (absence of talk)
+krankheit	disease
+toller	def [Am.] [slang]
+schatten	tail (pursuer)
+wachen	police station
+tatsache	fact
+stock	chopping block
+hingehen	to go there
+verboten	off limits
+anzug	batter (backward-leaning slope of the front face)
+leichen	dead body
+beendet	to cease
+verflucht	to curse sb./sth.
+dunkel	darkness
+klopfen	knock
+spuren	traffic lane
+dreck	wet dirt
+seiten	page /p./
+gezogen	to gain traction [fig.]
+kontrollieren	testing
+knochen	bone
+schick	chic
+getrennt	to wall off ⇆ sth.
+programm	schedule (of an event)
+grab	grave
+ebenso	likewise (with sb.)
+trage	stretcher
+nachbarn	neighbour [Br.]
+bieten	bidding
+bestes	best
+fuhr	to operate sth.
+freundlich	agreeably
+dennoch	but
+rauchen	smoking
+dick	heavy (dense, thick, compact, intense)
+stuhl	evacuation of the bowels
+dreh	shoot
+bester	best
+vergeben	to farm out ⇆ work (to sb.)
+ausgehen	to fall out
+behandeln	to work on sth.
+trotz	defiance
+gast	guest
+passierte	to pass
+toilette	morning toilet
+annehmen	to trust (rather formal)
+hexe	witch
+erwachsen	to grow out of sth.
+pistole	pistol
+dreht	to rotate
+aussage	statement
+derjenige	that
+teuer	dear
+beobachtet	to watch sth.
+theater	dramatics
+regen	rain
+feinde	the (natural) predator of an animal
+erlauben	to permit
+zulassen	allowance (of sth.) [formal] [obs.]
+schnappen	snap (of an animal at sth.)
+komplett	unmitigated
+panik	panic
+flughafen	airport
+bewusst	intentionally
+voraus	ahead
+begleiten	company
+einander	each other
+erlebt	to experience sth.
+weiterhin	plus {conj} [coll.]
+fahrer	driver of a/the vehicle
+konzentrieren	to focus sth.
+streiten	to fight {fought
+star	starling
+alkohol	ethyl alcohol
+begann	to start sth.
+angenommen	to acquire sth.
+weitermachen	to proceed
+post	post [Br.]
+mitgenommen	to take sth. on board [fig.]
+botschaft	embassy
+ideen	idea
+fehlen	absence (of)
+aufgeregt	to annoy sb.
+selbstmord	suicide
+irgendein	any
+magie	feat of magic
+handelt	to trade
+untersuchen	to test sth. (on sb. / for sth.)
+flucht	flight
+gegenteil	reverse
+betrifft	to involve sb./sth. (of a thing)
+scharf	abrasive
+gehofft	to hope
+kennengelernt	to meet sb. {met
+projekt	project
+trottel	dumbass
+immerhin	as many as
+mehrere	several
+schwimmen	swim
+innerhalb	within
+matt	mate
+blind	eyeless
+schwestern	member of a religious order
+code	code
+schlau	smart
+absicht	intent
+zuletzt	in the end
+englisch	English
+ohr	power of hearing
+verletzen	to break sth. {broke
+song	song
+gewinnt	to gain sth.
+tritt	kick
+trauen	to trust (in)
+trick	scam
+roten	Red
+vorstellung	conception
+killer	hit man
+rechnung	reckoning (bill
+dieselbe	the same
+definitiv	definitely
+locker	elicitor
+abends	in the evening
+frisch	unwithered
+kohle	coal
+fing	to trap
+hure	prostitute
+cousin	(male) cousin
+familien	family
+einsam	secluded
+lebendig	vivid
+heiligen	saint
+knapp	narrow
+ebenfalls	also 
+artikel	article
+gesetzt	to typeset sth.
+jederzeit	at any time
+kompliziert	daedal
+signal	message
+stich	tinge
+kino	cinema [Br.]
+probieren	trial-and-error method
+wundervoll	wonderful
+tanz	dance
+kerle	guy [coll.]
+begraben	to bury sb.
+prozent	percentage
+stoppen	trapping (of sth.)
+hoheit	elevation
+riesen	giant
+rote	pinko
+zugang	basic approach
+vorn	in the front
+aufmachen	to undo
+sexy	nubile (of a young woman)
+erlaubnis	permission (to do sth.)
+story	story
+leichter	lighter
+filme	picture
+priester	sky pilot [Am.] [mil.] [slang]
+packen	prehension
+dritte	third
+inzwischen	meanwhile
+presse	press
+sitze	seat
+geklaut	to lift sth.
+helden	protagonist
+geduld	patience
+reparieren	to vamp up
+gerechtigkeit	justice (fairness)
+selten	seldom
+anrufe	telephone call
+unterschreiben	to countenance sth. [formal]
+endet	to cease
+medizin	(medicinal) drug
+verhaften	to arrest sb.
+prozess	legal proceedings
+samstag	Saturday /Sat/
+amen	amen
+motor	motor
+marie	loot
+abhauen	to run off
+chaos	chaos
+beinahe	by a fraction of an inch
+anhalten	stop
+hof	aureola
+akzeptieren	to accept
+norden	north /N/
+anziehen	initial set
+dingen	to take sb. into employment
+umgehen	to be rife
+bauch	abdomen
+ertragen	bearing
+kiste	goggle box [Br.]
+brennt	to bake sth.
+teile	portion
+deckung	copulation
+landen	landing
+berg	mountain
+aufgenommen	to absorb sth.
+gerufen	to call in ⇆ sb.
+untersuchung	investigation
+alarm	alarm
+extra	added extra
+beobachten	to keep
+eindruck	imprint
+babys	baby (young infant)
+wehtun	to hurt {hurt
+zog	to grow {grew
+springen	porpoising
+nackt	naked
+existiert	to subsist
+befreien	to deliver (from)
+gezwungen	laboured [Br.]
+bastard	bastard
+interessieren	to interest (in)
+schlechten	cleat planes
+steigt	to go up
+gekriegt	to receive sth.
+fliehen	flight
+trug	swindle
+freundschaft	friendship (with sb.)
+rate	rate
+papiere	political paper
+abgeschlossen	to consummate sth.
+schnauze	spout (of a pot)
+beruf	job
+gebiet	region
+jedoch	however
+beten	to say one’s prayers
+verbunden	connected (with sth.)
+sprachen	language /lang./
+brust	breast
+kleider	dress
+jacke	jacket
+bestellt	to till the soil
+herkommen	to come here
+wild	wild game
+angesehen	(eminently) respectable
+trennen	disconnection
+schlafzimmer	bedroom
+vorschlag	suggestion
+gift	poison
+ton	tone
+vermissen	to miss sb./sth.
+angekommen	to go down
+deutlich	conspicuous
+verwirrt	light-headed
+akten	file
+riskieren	to invite sth.
+b	flat
+erkannt	to pick out
+beerdigung	funeral
+stellte	to place
+mitte	middle
+erleben	experience
+geburt	delivery
+decke	surfacing (top layer of tracks, roads, or spaces)
+wege	alley
+schritte	move
+gemeldet	to announce sb./sth. (to sb.)
+mittagessen	lunch (cold or warm meal)
+vernichten	to exterminate
+rock	(suit) jacket [Br.]
+chicago	Chicago
+ellen	ell
+crew	crew
+gewehr	gun
+spiegel	mirror
+hauen	to quarry
+geraten	advisable
+ross	horse
+wetter	mine atmosphere
+schwul	gay
+regel	norm
+einheit	entity
+armer	poor man
+gucken	to look inquisitively
+anstatt	instead of
+champagner	champagne
+strafe	punishment
+zelle	booth
+langen	to suffice
+ruiniert	to bankrupt
+kleidung	garments
+gras	cannabis herb
+agenten	agent
+herausgefunden	to establish
+rechten	rightist
+brot	bread
+berlin	Berlin
+erfreut	to delight
+staaten	country
+station	port of call (for sb.) [fig.]
+gaben	dose
+hinterher	with the wisdom of hindsight
+verpassen	to miss sth.
+geholt	to bring in
+hemd	shirt
+praktisch	effectively
+theorie	theory
+zunge	tongue
+notfall	emergency
+winter	winter
+c	C
+dahinter	hood
+schwere	magnitude
+feuern	firing
+schief	lopsided
+blau	blue (colour)
+bestens	hunky-dory {adj} [coll.]
+unrecht	wrong
+leck	leak
+wonach	what … for
+entwickelt	to develop sth.
+bedeutung	magnitude
+strom	current (water moving forward)
+krebs	crab (false rowing stroke)
+gemein	wicked
+wessen	whose
+minister	minister
+quelle	(secret) informant
+zahl	number (of sth.)
+schiffe	ship
+bricht	to sunder sth.
+talent	vocation
+spitze	snide remark
+fernseher	television set
+treiben	to send sth. {sent
+ausgezeichnet	distinguished
+tatort	site of crime
+trinkt	to bib
+esse	chimney
+details	detail
+dieb	thief
+offiziell	official /off./
+dienen	to serve (in the army)
+westen	occident
+entscheidungen	decision (on sth.)
+dauernd	to continue
+geschmack	taste
+gegenseitig	mutual
+charlotte	Charlotte (city name in the USA)
+pech	pitch
+schauspieler	actor
+personen	person
+publikum	audience
+wechseln	to alternate
+begegnet	to come across sb.
+betrogen	to humbug
+besucht	to visit sth.
+europa	Europe
+loswerden	to cast off ⇆ sb./sth.
+gas	gas
+sturm	storm
+briefe	letter
+null	zero
+penny	penny /p/
+wirken	to act on sth.
+starten	launching
+festhalten	arrest (of sth.)
+geheim	privy
+abteilung	detachment
+papier	wrapping paper
+wetten	bet
+gefolgt	to tail sb.
+verschiedene	several
+gleichzeitig	simultaneous
+genie	genius
+hungrig	hungry
+inspektor	superintendent
+zwingen	cramp [Br.]
+atmet	to breathe
+kuh	cow
+geworfen	to whelp (of dogs)
+pater	Father /Fr./
+versteck	hiding place
+beruhigt	to calm
+rechtzeitig	duly
+streng	prim
+sendung	mission
+gelebt	to live
+treppe	stairs
+aufnehmen	recording (process) (audio, photo, video)
+wolf	chafe
+wut	anger
+schlange	fence of fascines/kids/faggots
+medikamente	(medicinal) drug
+geschenkt	to give {gave
+gelegt	to situate
+anfassen	to take hold of
+pizza	pizza
+mantel	pall [fig.]
+behauptet	to predicate (of)
+angeblich	supposed
+reiten	riding
+mittag	midday
+gewarnt	to alert (to)
+dunkelheit	darkness
+spazieren	to stroll
+angel	fishing rod
+hiermit	through this
+vieles	much
+tausend	thousand
+sack	sack
+eindeutig	ambiguity
+unterhaltung	conversation
+zugeben	addition (of sth.) (process)
+mittel	remedy (for sth.)
+explosion	splurge (of sth.) [fig.]
+frische	freshness
+neugierig	curious
+leitung	electrically conducting wire
+kennenlernen	familiarization
+fliege	mayfly
+auseinander	asunder
+fressen	food (for smaller household pets)
+beides	either (+ singluar)
+ficken	fuck
+stoff	woven fabric
+eilig	hurry
+stammt	to come from
+vorgestellt	to launch sth.
+oberst	Colonel /Col./ [Br.] [Am.] [Can.] (rank)
+schrank	cabinet
+fremde	exile
+gnade	grace
+entspannen	to relax
+virus	virus
+einladung	invitation
+krieger	warrior
+fein	tenuous
+greifen	bite (of screws, wheels)
+schickte	to send {sent
+per	as from [Br.]
+feld	farm field
+erschaffen	to create sth.
+information	piece of information
+hergekommen	to come here
+verbracht	to move sth. (to a place)
+waschen	wash
+staat	attire
+geister	ghost
+behaupten	to predicate (of)
+schrei	clamour [Br.]
+warnen	to alert (to)
+chancen	odds
+treibt	to propel
+nannte	to term sth.
+mitternacht	midnight
+freundinnen	friend
+lecker	appetizing
+klinik	hospital
+dicht	tight
+befinden	(state of) health
+verursacht	to wreak (damage, havoc)
+hammer	cock (of a firearm)
+klang	sound (acoustics)
+aufregend	to annoy sb.
+grenzen	limit
+politik	politics
+besitz	possession (of sth.)
+eingesperrt	cooped up
+irren	to err
+kommando	command
+schlug	to knock at/on/against st.
+krankenwagen	ambulance
+richten	arrangement in a straight line
+erfunden	to invent sth.
+schnee	image noise
+punkte	rating point
+entfernen	removal
+abgehauen	to run off
+erfolgreich	successful
+brille	glasses
+heimat	home (of/to sb./sth.)
+leiter	leader
+kauf	purchase (of sth.)
+werk	work
+cent	cent /c/ /ct/
+schlacht	battle (for sth.) [mil.] [fig.]
+beziehungen	relation (with sb.)
+abgemacht	to untack
+schreie	scream
+erschreckt	to startle sb.
+offizier	officer
+empfangen	to greet sb.
+zweck	sense
+ergeben	to make for sth. (of a thing)
+china	China
+gedanke	thought
+tausende	thousand
+heutzutage	nowadays
+schnitt	cutting to shape
+lebend	to live
+real	real (currency of Brazil)
+holz	wood
+kaiser	emperor
+spielte	to perform sth.
+begonnen	to start sth.
+gelandet	to land
+scheidung	divorce
+bart	beard
+beschlossen	to conclude sth.
+klo	loo [Br.] [coll.]
+riechen	to smell {smelled / smelt [Br.]
+begeistert	to inspire sb.
+ei	egg
+geil	horny
+nieder	lowly (status)
+beeindruckt	to impress sb. (of a thing)
+aufgegeben	to concede sth. (to)
+aufgrund	based on
+momentan	at this moment
+solch	such
+meistens	more often than not
+stress	trouble
+sterne	star
+heilen	to heal (completely)
+soviel	as far as
+stattdessen	instead of
+stimmung	atmosphere
+bulle	cop
+aufgefallen	to attract attention (as sth.)
+wachsen	waxing (of sth.)
+verurteilt	to denounce sth. (as sth.)
+urteil	court judgment
+schweine	pig
+house	house music
+verlust	leakage
+wenige	few
+schulter	shoulder
+beigebracht	to instil [Br.]
+normale	normal
+anbieten	to serve
+verwenden	to utilize
+fluch	curse
+unterricht	lesson
+anklage	indictment (of sth.) [fig.]
+lippen	lip
+fett	fat
+feigling	recreant
+achten	to mind
+gewohnt	used
+aufwachen	to wise up
+uniform	uniform
+zusehen	to watch (sb.)
+gesundheit	health
+abenteuer	adventure
+hosen	(pair of) trousers [Br.]
+scheck	cheque [Br.]
+fresse	trap
+wiederholen	to rerecord sth. (audio)
+bestellen	to till the soil
+freiwillig	volition
+universum	universe
+zeuge	witness
+west	to be
+revier	police district
+reifen	band
+durchgemacht	to undergo {underwent
+tests	testing and passing
+schenken	to give {gave
+april	April
+albern	silly
+brav	tamely
+schwerer	big
+jagd	prowl (for sth.)
+versagt	to fail sth.
+geschenke	present
+sicherlich	certainly
+verbrecher	criminal
+maske	face mask
+liefern	to issue
+jo	yes
+russen	Russian
+gemerkt	to sense sth.
+loslassen	to unclasp
+berichten	to report back (on sth.) (to sb.)
+verabschieden	to see off ⇆ sb.
+antrag	application (for sth.)
+benehmen	demeanour [Br.]
+verdacht	suspicion
+schreibtisch	writing desk
+e	E
+vampir	vampire
+probe	class test
+schaff	tub
+patient	patient
+verbrannt	to combust
+informiert	to clue in ⇆ sb.
+zucker	sugar
+schnappt	to nab
+klamotten	garms
+heil	redemption
+besitzer	possessor
+drum	reason
+tasse	tray (for storage, transport, packing)
+hinweis	clue (to sth.)
+verteidigung	defence [Br.]
+magen	stomach
+beeilt	speedily
+tunnel	tunnel
+einst	one day
+behandlung	processing (of a thing)
+serie	television series
+applaus	applause
+markt	market place
+korrekt	proper
+besessen	obsessed (with)
+bewahren	to retain sth.
+pack	bundle
+angreifen	to attack
+tiefer	low
+truppen	ensemble group
+kommandant	commanding officer /CO/
+osten	East /E/
+elf	the eleven (players) (football team)
+beeindruckend	impressing
+besitzt	to hold
+clever	smart
+hass	hate
+antworte	response (to sth.)
+posten	position of employment
+schneiden	film editing
+sammeln	gathering
+gesteckt	to kennel a dog
+wissenschaft	scientific study
+ursache	principle
+gewiss	axiomatic
+bereich	area
+meinetwegen	on my / your / his / her / our / your / their account
+senator	senator
+ausziehen	digestion
+verzweifelt	forlorn (unlikely to succeed)
+anteil	proportion
+stets	always
+ritter	knight
+viertel	quarter
+roman	novel
+basis	base line
+schock	shock
+empfang	reception
+besondere	particular
+titel	music track
+stil	diction (of a person or a text)
+einfluss	bearing (on)
+anweisungen	instruction
+opfern	sacrificing
+sparen	saving
+weiteres	further details {pl}
+erstaunlich	staggeringly
+schwachsinn	inanity (nonsensical remark or action)
+miete	rental
+verwandelt	to turn sth. into sth.
+daneben	in addition
+bereiten	to afford sth. (of a thing)
+gabe	offering
+hundert	hundred
+erscheinen	arrival /arr./
+besiegen	to defeat
+angelegenheit	affair
+angestellt	to be up to mischief
+training	training
+aufgetaucht	to break surface (submarine)
+rauskommen	to come (of)
+planet	planet
+suppe	soup
+erwischen	to nab
+sitz	seating surface
+vorteil	benefit
+rosa	pink
+tour	turn (of a bandage)
+gouverneur	governor /Gov./
+stern	star
+wirklichkeit	sooth
+bestraft	to punish sb. (for sth.)
+kreis	district /dist./
+bestehen	existence (of a thing)
+erscheint	to turn up
+staatsanwalt	Public Prosecutor
+ewigkeit	eternity
+angezogen	to lure
+half	to second
+tiger	true big cats (zoological genus)
+zigarette	cigarette
+mutig	mettled
+ausruhen	rest
+linken	leftist
+not	penury
+eng	tight
+wissenschaftler	researcher
+reaktion	reaction
+morde	murder
+dusche	shower
+mitarbeiter	staffer
+bedroht	to menace sb./sth. (with)
+befreit	to clear
+reagiert	to respond to sth. (with sth.)
+rund	rounded
+fieber	fever of anticipation
+hirn	brain
+leiten	to guide
+unheimlich	creepy
+irgend	imaginably
+diener	servant
+extrem	extreme
+ausweis	identification document
+sicht	spin (of a matter) [fig.]
+sport	sport [Br.]
+juden	Jew
+studiert	to scrutinize
+angelogen	to lie to sb.
+text	lyrics (of a song)
+nebenan	next door (to)
+lektion	lesson
+staub	powder
+sophie	Sophia
+kugeln	bowl
+ratte	rat
+mitleid	pity
+testen	testing
+auftritt	appearance
+gegner	adversary
+verdienst	earnings
+langsamer	lazy
+wunde	wound
+linie	line
+bedrohung	threat
+bauer	pawn (chessman)
+fische	fish
+einkaufen	to do some shopping (for sb.)
+kreuz	cross
+afrika	Africa
+begangen	to observe sth.
+nachsehen	to look up
+junior	junior
+leidenschaft	ardour [Br.]
+geliebte	mistress
+spieler	gambler
+berge	mountain
+verwendet	to utilize
+steuern	steering
+voran	before
+wieviel	how much
+graf	count
+verabredung	date
+umdrehen	to turn
+negativ	negative
+schild	identification plate
+verbrennen	to combust
+gefreut	to be glad
+penner	down-and-out
+lehrerin	teacher
+kameras	still camera
+zentrale	main office
+wayne	Wayne (various towns in the USA)
+wenden	change (in sth. / from sth.)
+suchte	to quest for/after b/sth.
+start	launching
+sand	sand
+pfarrer	minister
+plus	perks (of a status/thing)
+zauber	magic
+hafen	harbour basin [Br.]
+indianer	Native American
+verschwenden	to dissipate
+untersucht	to test sth. (on sb. / for sth.)
+jean	pair of jeans
+lese	gathering
+stahl	steel
+affen	monkey
+kindheit	childhood
+gewollt	intentionally
+vermeiden	avoidance
+fabrik	factory
+aussagen	sb.’s statement
+wunderbare	marbellousness
+jungfrau	virgin
+reingelegt	to hoax sb. (into believing sth.)
+angenehm	pleasant
+planen	tarpaulin
+klauen	cleat
+geruch	odour [Br.]
+klingen	tintinnabulation
+ungern	loath
+abgelehnt	to reject sth.
+erstens	firstly
+abmachung	arrangement
+appetit	appetite (for)
+miami	Miami (city in the USA)
+zeigte	to evidence sth.
+fan	supporter
+sms	text message
+verkauf	sale (of sth.)
+verbergen	concealment (of sth.)
+sorgt	to ensure
+aussteigen	to disembark
+korrektur	erratum
+wirft	to pelt (at)
+titten	tits
+betreten	to enter (a place)
+hohe	high
+aufnahme	assimilation
+manager	manager (of an artist or individual sportsman)
+stellung	position of employment
+schokolade	chocolate
+angeboten	to tender
+weib	woman
+ausgerechnet	of all things / people / places / times etc.
+walker	fuller
+beibringen	instillation
+nelson	Nelson (river)
+belohnung	reward
+seelen	barrel bore
+steine	stone [Br.]
+garage	garage
+ruhen	abeyance (of a matter)
+pillen	dot
+telefonieren	telephoning
+funk	funk
+hurensohn	turd
+spring	spring line
+uni	university
+scheinbar	deceptively (differently from how it appears)
+fakten	fact
+informieren	to clue in ⇆ sb.
+jugend	age of adolescence
+feier	celebration
+benzin	petrol [Br.]
+nix	merman
+vampire	vampire
+sicherer	saver
+zigaretten	cigarette
+mauer	outdoor wall
+erneut	anew
+schluck	sip
+abschluss	close
+dummkopf	stupid idiot
+eingestellt	to discontinue sth.
+weitergehen	to proceed
+technik	technics
+gekostet	to taste sth.
+anzeige	notice (of sth.)
+ergebnis	discovery
+bedingungen	condition
+geschnappt	to cop sb. [coll.] (police)
+eile	hurry
+innen	inside
+einig	unitedly
+verhandeln	bargaining
+weswegen	why
+gentleman	gentleman
+warnung	admonition
+gemeinde	demos
+diamanten	diamond
+seil	rope
+euro	euro /EUR/ (currency)
+ware	piece of merchandise
+figur	figure
+roboter	robot
+anschauen	to watch sth.
+material	matter
+bereitet	to afford sth. (of a thing)
+einfallen	incidence
+fantasie	imagination
+brach	to sunder sth.
+satz	statement
+kommissar	commissioner
+exzellenz	Most Reverend
+nass	wet
+repariert	to vamp up
+gestanden	to represent sth.
+maschinen	aeroplane [Br.]
+unterlagen	rest
+palast	palace
+graben	ditch
+kette	string (of sth.) (series of things)
+auftauchen	emersion
+wovor	what … of
+springt	to leap (to a place) {leaped/leapt
+terroristen	terrorist
+aufgewachsen	to grow up
+arbeiter	manual worker
+humor	humour [Br.]
+betrachten	contemplation
+organisation	organization
+widerstand	opposition (from sb. to sth.)
+bergen	to hold {held
+studio	studio
+hausaufgaben	(homework) assignment
+bescheuert	barmy [Br.]
+weggehen	to go out (with sb.)
+teller	dish
+original	master copy
+revolution	revolution
+verbinden	connecting
+ermittlungen	(law enforcement) investigation
+hunderte	hundred
+versetzt	to transpose
+bibel	(printed) bible
+heiliger	saint
+kopie	duplicate
+besitzen	to hold
+zeitungen	newspaper
+geschaffen	to create sth.
+beschreiben	to describe
+ausgesucht	select
+notwendig	requisite
+ignorieren	to disregard sth.
+toter	fatality (statistics)
+deck	deck
+narr	fool
+geirrt	to be wrong
+darunter	including
+einzig	out-and-out
+spielchen	little game
+girl	girl
+fahrrad	bicycle
+nutte	prostitute
+wilde	savage
+jordan	Jordan (river)
+bequem	commodious [obs.]
+rauch	fumes
+pool	pool
+hubschrauber	helicopter
+kollege	colleague
+vernichtet	to exterminate
+gesichter	face
+derselbe	the same
+konto	bookkeeping account
+haken	hook
+munition	ammunition
+gefasst	composure
+anzeichen	sign
+geklappt	to fold
+hintergrund	picture background
+tipp	advice
+genial	ingenious (person)
+berichte	report (on sth.)
+kram	junk
+umziehen	to move
+keinerlei	whatsoever
+typisch	generic
+bietet	to bid {bid
+technologie	technology
+ruinieren	to beggar sb.
+umso	all the more
+safe	bank deposit safe
+mai	May
+heben	lift
+koch	chef
+katastrophe	disaster
+male	Male (capital of Maldives)
+gesetze	law
+meeting	meeting
+versicherung	underwriting
+getragen	to cover costs
+ehefrau	wife
+mitmachen	sb.’s enlistment
+tauschen	to change sth.
+ergebnisse	discovery
+boston	Boston
+einstellen	adjusting
+reagieren	to react (on)
+gefehlt	to be absent
+verwandeln	transformation
+gedauert	to continue
+senden	broadcasting
+reporter	reporter
+abgeben	to render (of)
+bibliothek	library
+motiv	motive
+schalten	gear
+gewicht	clout
+zweiter	runner-up
+badezimmer	bathroom
+schieben	assisting in rear
+dreimal	triple
+weich	pulpy
+zweitens	secondly
+drachen	dragon
+genauer	precise
+spanisch	Spanish
+verrat	betrayal (of sb./sth.)
+hexen	witch
+live	Livonian
+legende	legend
+taub	abortive
+konzert	concerto
+doppelt	double
+last	strain (on sb.)
+vergleich	collation
+herzlich	affably
+taschen	envelope (packaging)
+besucher	visitor
+teddy	teddy bear
+leihen	to borrow sth. (from sb.)
+scheiden	scabbard
+einstellung	dismissal
+einheiten	unit
+russland	Russia (Russian Federation)
+angeschossen	to shoot and wound sb.
+sklaven	slave
+laune	temper
+stille	lull (period without much activity)
+asche	ash
+geflogen	to fly {flew
+spion	fixed gauge [Br.]
+weihnachtsmann	Father Christmas
+hervorragend	superlative
+puppe	doll
+unwichtig	dispensable
+linke	leftist
+franzosen	frogs [pej.]
+wehgetan	to hurt {hurt
+couch	couch
+cousine	(female) cousin
+grant	grumpiness
+oscar	Oscar
+ausdruck	linguistic expression
+pleite	bankruptcy
+beleidigt	to offend sb.
+knopf	stud
+leere	pirn
+heimlich	stealth
+eingehen	shrinkage
+rad	bicycle
+greift	to grab sb./sth. (by sth.)
+sinnlos	inept
+versaut	mucky [coll.]
+netz	omentum
+atem	breath
+anstellen	to turn on ⇆ sth. (alarm, music etc.)
+milliarden	billion
+flotte	fleet
+umgebung	surroundings
+beteiligt	to give sb. a share/interest in sth.
+dunkeln	to grow dark
+entwickeln	concept
+erwachsene	adult
+zack	bam 
+durchsuchen	to search sth.
+hollywood	Hollywood
+rollen	to scroll (the screen)
+tricks	scam
+gefangene	prisoner
+sender	broadcast station
+verlass	reliance
+rettet	to rescue sb.
+hinweise	clue (to sth.)
+ausreden	excuse
+diejenige	that
+herrscht	to dominate (over)
+romantisch	romantic
+verabredet	to agree on sth.
+pilot	aviator
+nigger	nigger
+reizend	to tempt
+grade	grade
+stanley	Stanley
+leib	belly
+vergewaltigt	to rape sb.
+lieferung	supply (of goods)
+botschafter	ambassador
+studieren	study
+duschen	shower
+kopfschmerzen	headache
+knarre	shooter
+phase	electrically conducting wire
+handschellen	handcuffs
+lewis	lewis
+versehen	mistake
+bande	bond
+treu	faithful (to)
+positiv	positive
+meiste	most
+museum	museum
+albtraum	nightmare
+besiegt	to defeat
+existieren	to hang over (from)
+proben	class test
+beschissen	crappy
+gewinne	profit
+personal	staff
+bewaffnet	to arm sb. with sth.
+wecken	bread roll
+wirkung	impact [fig.]
+therapie	medical treatment
+ordentlich	decently
+weglaufen	to drift (zero point)
+aufgewacht	to wise up
+decken	blanket
+sinne	sense (of sth.)
+zauberer	warlock
+klopft	to knock at/on/against st.
+abstand	distance (between)
+bewusstsein	consciousness
+nation	nation
+kontrolliert	controlled
+treffer	(Internet) search result
+abnehmen	dieting
+ratten	rat
+tempel	temple
+vergiftet	to befoul
+kunde	taker
+august	August
+wunden	wound
+unangenehm	displeasing
+segen	blessing (divine favour)
+kehle	roof valley
+krone	top
+garantiert	to underwrite {underwrote
+durchsucht	to frisk (a person)
+verfluchte	to damn
+ladung	freight
+hell	fluty
+kapitel	chapter /ch./
+alibi	alibi
+ziele	goal
+bestie	beast
+nirgends	nowhere
+wohnzimmer	living-room
+beute	loot
+bau	fabric
+brennen	calcining
+lex	law
+durst	thirst
+schwarzer	black
+schmutzig	murky
+liebhaber	aficionado
+ersetzen	replacement
+juli	July
+verfahren	procedure
+stiefel	boot
+allzu	all too
+camp	camp
+orten	to locate
+hitze	heat
+spielzeug	toy
+tv	production company
+wolle	wool
+knurrt	to growl
+meldet	to report sth.
+zone	area
+trocken	stale
+unterschrieben	to countenance sth. [formal]
+heulen	bay
+entschlossen	determined
+paket	parcel [Br.]
+gefiel	to please sb.
+aktiviert	active
+ausweg	way out
+hinweg	way there
+schmuck	decoration
+ausgang	termination
+illegal	unlawful
+ferien	holidays [Br.]
+geiseln	hostage
+steuer	steering wheel
+aufgepasst	to pay attention to sth.
+raumschiff	porthole (aircraft
+ausbildung	formal training
+klavier	touch
+hauptsache	merits (of a case)
+admiral	red admiral
+entgegen	contrary to
+strecke	rail line
+version	rendition
+hilfreich	instrumental
+h	B
+jahrelang	for years
+leeren	denudation
+baron	baron
+puls	pulse rate
+flur	entrance hall
+rettung	deliverance (from sth.)
+widerlich	execrative
+parkplatz	car park [Br.]
+katzen	cat
+laster	vice
+sozusagen	quasi
+unschuldige	innocent
+abwarten	to wait
+re	redouble
+aufnahmen	picture
+vision	vision (of sth.) [fig.]
+schauspielerin	actor
+irrtum	mistake
+klienten	client
+nervt	to exasperate sb.
+trainieren	to practise [Br.]
+gegenwart	presence (of sb.)
+protokoll	minutes
+studenten	university student
+durchaus	entirely
+grausam	barbaric
+verwickelt	to implicate sb. in sth.
+schmecken	to taste (of)
+klappen	clapperboard
+ansonsten	otherwise
+wade	calf
+mitglieder	member (of an institution)
+motorrad	motorcycle
+blicken	to look (at
+dicke	thickness
+gejagt	to hound
+diskutieren	to discuss sth. with sb.
+pinkeln	piddle [Br.]
+huhn	chicken
+erheben	to assess sth.
+paradies	paradise
+tagebuch	journal
+jenseits	boundary
+pfeift	to pipe (bird)
+konsequenzen	ramification (of sth.)
+fleck	stain
+online	on the Internet
+enkel	grandchild
+normalen	normal
+stift	pencil
+interview	interview
+aussicht	outlook
+werbung	publicity
+warf	artificial dwelling hill
+telefoniert	to telephone sb.
+anblick	sight
+teppich	blanket [fig.]
+handel	deal
+gekannt	to know sth. {knew
+getrieben	to send sth. {sent
+trainer	trainer
+schuh	shoe
+bomben	bomb
+victoria	Victoria (capital of Seychelles)
+bedenken	concerns
+sitzung	working session
+tapfer	bold
+experiment	experiment
+tiefe	depth (ship)
+narren	fool
+abgeholt	to (go and) pick up
+abhalten	dissuasion
+bestimmte	to designate sb./sth. (as)
+tara	tare (weight)
+mies	lowlife [coll.]
+sarg	coffin
+vertragen	to agree with sb.
+gebissen	to bite {bit
+tradition	tradition
+soeben	just
+aufgehalten	to stop sb./sth.
+attraktiv	attractive
+begriff	conception
+schilde	shield
+legte	to place
+mitteilen	to communicate
+muster	sample
+eingeschlafen	to fall asleep
+einzelne	respective (+ plural)
+vorbeikommen	to pass
+aua	(minor) ailment
+sandwich	breaktime sandwich
+gewinner	winner
+g	G
+papst	Pope
+toast	toastie
+einsteigen	access (to a program)
+einsetzen	onset (usually of a negative phenomenon)
+gewinn	earnings
+pflanzen	to pull sb.’s leg
+green	Green (river)
+werte	asset
+modell	version
+heftig	copiously
+vorfall	occurrence
+motel	motel
+teams	sports team
+freier	prostitute’s customer
+zirkus	hype (about/surrounding sth.)
+ruhm	renown
+zurzeit	currently
+ausmachen	to turn off ⇆ sth. (alarm, music etc.)
+rezept	remedy (for sth.)
+laute	lute
+akzeptiert	to accept
+geschwindigkeit	velocity
+beliebt	popular
+verpflichtet	engaged
+wille	will
+kehren	horseshoe curve (railway)
+baut	to build sth. {built
+gesichert	to back up sth. (make a spare copy)
+block	ingot (of metal)
+belogen	to lie to sb.
+malen	paining
+kofferraum	(luggage) boot [Br.]
+bursche	lad
+ausgegangen	to presume sth. (from sth.) (of a person)
+begreifen	comprehension
+blitz	bolt of lightning
+furcht	fear (of sth.)
+jersey	woven fabric
+verteilt	to circulate sth.
+faszinierend	to thrill sb.
+aufmerksam	heedful
+aufregung	uproar
+ethan	ethane
+orte	locality
+keucht	to gasp
+erhielt	to maintain
+treue	staunchness
+felsen	piece of rock
+zorn	odium
+taucht	to dive dive {dived
+bestimmen	determination
+ausgesetzt	to suspend sth.
+verkehr	sexual intercourse
+bewiesen	to prove {proved
+generation	generation
+liebste	sb.’s sweetheart
+ausrichten	alignment
+ausnahme	exception
+ebene	echelon
+herrlich	gorgeous
+herausforderung	challenge (for sb.)
+farben	paint
+geliebten	mistress
+ankommen	to arrive (in a place) (person)
+tempo	speed
+unterbrechen	to break sth. {broke
+erden	earthing [Br.]
+tal	valley
+irgendwer	anyone
+witwe	widow
+sichern	protection
+gerede	talk (of sth.)
+betrug	fraud (criminal offence)
+trauer	sorrow
+anwesenheit	presence (of sb.)
+bilden	forming
+gewachsen	to sprout
+ausflug	excursion
+verlaufen	to unfold
+rand	trim
+rechnen	computing
+aufzug	act
+wegnehmen	to take off
+abschied	parting (from sb.)
+amt	office
+reiche	realm [fig.]
+beginn	dawn (of sth.) [fig.]
+daumen	thumb
+bestrafen	to penalize
+weine	wine
+fremder	outlander
+sachte	gently
+identifiziert	to identify sb.
+riesig	huge
+entscheide	decision
+koma	coma
+prinzen	prince
+bewusstlos	unconscious
+marke	postage stamp
+jude	Jew
+setzte	to place
+absichtlich	intentionally
+vermasselt	to botch
+verschlossen	to plug a hole
+sowie	as soon as
+gesang	singing
+gedreht	to turn
+religion	religious education /RE/
+unterschrift	signature
+rosen	rose
+fortschritte	progress
+eingang	entrance
+vorhaben	intention
+kultur	culture
+patientin	patient
+explodiert	to explode
+nichte	niece
+steven	stern post
+existenz	livelihood
+drehbuch	screenplay
+zaun	fence (around sth./between sth.)
+geladen	charged
+privat	intimate
+eimer	bucket
+blasen	bladder
+rakete	rocket 
+salz	salt
+unfair	foully
+verzeiht	to excuse sth.
+esel	fool
+krankenschwester	nurse
+symbol	emblem
+entscheidet	to decide (on)
+fahrzeug	vehicle
+betrachtet	to look at
+bauern	pawn (chessman)
+genossen	comrade
+tropfen	glob
+probiert	to taste sth.
+verhungern	to die of / from hunger
+september	September
+aktion	action
+bestanden	to insist on sth.
+haaren	to shed (hair)
+louise	procurer
+schluchzt	to snivel
+heilmittel	remedy (for sth.)
+apparat	machinery [fig.]
+friedlich	peaceful
+zuschauer	audience
+teenager	teenager
+geliefert	to issue
+gestritten	to fight {fought
+maus	mouse
+lediglich	merely
+charakter	character
+krass	extreme
+weiterer	further (of things)
+diana	Diana
+lichter	high lights
+staffel	relay
+flaschen	bottle
+putzen	fettling (of castings) (foundry)
+einbruch	drop
+geheilt	to heal (completely)
+stammen	to descend
+versagen	failure
+verschieben	to scroll (the screen)
+mars	Mars
+entdecken	to spy
+zelt	tent
+akzent	accent
+truppe	ensemble group
+kompliment	compliment
+flammen	flame
+erschrecken	fright
+chip	semiconductor chip
+mannschaft	crew
+vertreten	to subscribe to sth.
+verhandlung	trial
+letztendlich	in the end
+krise	crisis
+verlierer	loser (in a competition)
+spencer	spencer
+kekse	biscuit [Br.]
+ausschalten	power down
+penis	(male) member
+profi	adept
+whisky	whisky [Br.] [Can.]
+einspruch	objection (to sth.)
+angeln	fishing rod
+rausgehen	to quit (close a program)
+kaution	bailmant
+gesessen	to fit
+boy	baize
+summe	amount
+lade	chest
+billig	reasonable
+juni	June
+gerissen	foxy
+festgenommen	to catch sb.
+befohlen	to order sb. to do sth.
+koordinaten	geographical coordinates [Br.]
+herzinfarkt	cardiac infarction
+hinlegen	to put down
+nahrung	food
+liege	couch
+geflohen	to flee {fled
+knall	bang
+nebenbei	as a secondary occupation
+nachbar	neighbour [Br.]
+geleistet	to render (assistance)
+nutzt	to utilize
+nebel	fuddle [Br.]
+front	front
+affe	monkey
+kontaktieren	contacting
+brand	fire
+zwischenzeit	interim
+eingesetzt	to apply sth. (to sth.)
+rennt	to rush
+anlegen	construction (of sth.)
+kreatur	creature
+verderben	ruin
+besetzt	occupied
+zugriff	access (to sth.)
+kanal	channel
+blutdruck	blood pressure
+ausgeben	issuing
+papi	daddy
+clown	clown (entertainer at a circus etc.)
+arten	type
+aufgebaut	to piggyback on/onto sth.
+sydney	Sydney (city in Australia)
+trank	drink
+glatt	slippery
+trainiert	to practise [Br.]
+autor	(professional) writer
+geweint	to cry (over/about sb./sth.)
+blume	bloom
+verletzungen	injury
+zwillinge	twin
+gefickt	to fuck
+moskau	Moscow (capital of Russia) <Moskva>
+durchgehen	run-through
+praxis	experience
+eingeschlossen	to include sb./sth. (in sth.)
+psychiater	psychiatrist
+rasse	ethnic group
+kummer	sorrow
+eigener	own
+partei	political party
+zentrum	hotbed (of a negative phenomenon)
+testament	last will
+entfernung	distance
+welten	realm [fig.]
+verlegen	bricklaying
+heroin	heroin
+erfuhr	to undergo {underwent
+kutsche	carriage
+dummer	silly
+stabil	stable
+ausgeschlossen	sidelined
+aufgehoben	to overrule sb./sth.
+single	single person
+regisseur	director (theatre, film, TV)
+vielmals	many-times
+bestand	holding
+erbe	heir
+weggelaufen	to drift (zero point)
+losgehen	to go off
+hustet	to cough
+brutal	barbarically
+besprochen	to talk about
+halbes	half /hf/
+bargeld	hard cash [Br.]
+zusammenarbeiten	to cohere
+beunruhigt	to alarm sb.
+achte	eighth
+innere	inside
+kanone	cannon
+eklig	disgusting
+marine	merchant navy
+brillant	brilliant (brilliant-cut diamond)
+vorgehen	action
+kleinigkeit	pettiness
+kissen	cushion
+geisel	hostage
+gerecht	appropriate
+trost	consolation
+gehasst	to hate
+gesorgt	to generate sth. (be the cause of)
+spinner	spinner (operator)
+vergebung	forgiveness
+vieh	cattle [mass noun]
+gefesselt	to handcuff
+leitet	to conduct
+angehen	to tackle
+ekelhaft	nauseously
+salat	salad
+schicht	working shift
+intelligent	bright (of a person)
+socken	sock
+brieftasche	wallet
+packt	to grab sb./sth. (by sth.)
+eventuell	possible
+nirgendwohin	nowhere
+methode	manner
+gespannt	fraught
+vernunft	sense
+regnet	to rain
+drama	drama
+entspannt	relaxed
+klingeln	jingle
+sprung	sheer of a ship’s deck
+gangster	gangster
+aufzeichnungen	record
+ofen	baking oven
+aufgaben	job
+deutsch	German
+wodka	vodka
+respektieren	to respect sb.
+riskant	precariously
+lohn	wage
+zuviel	plethora (of)
+zustimmen	to acquiesce
+schnaps	rotgut
+stufe	relief
+erleichtert	to alleviate
+scheune	barn
+spaziergang	breeze [Am.]
+zettel	slip
+kotzen	vomiting
+symptome	symptom
+vorfahren	sb.’s forefather
+nutzlos	naff [Br.] [slang] <naffer> <naffest>
+telefonnummer	telephone number
+nochmals	once
+medien	process media
+faul	trumped-up
+ereignisse	occurrence
+aussuchen	to choose {chose
+zweites	second
+fabelhaft	fabulous
+klinge	blade (of a knife/sword/tool)
+leistung	service
+beileid	sympathy
+unschuld	artlessness
+seist	be (wishing mood)
+sofa	sofa
+gestatten	to permit
+gekocht	to cook
+biest	beast
+verarscht	to take the piss out of sth.
+butter	butter
+nachbarschaft	neighbourhood
+villa	villa
+saft	sap
+hauptquartier	headquarters /HQ/ /Hq./
+geschworen	to swear sth. {swore
+abgenommen	to lose weight
+werkstatt	workshop
+frisst	to gormandize
+geschieden	to refine sth. (sugar production) (metallurgy)
+assistentin	assistant /asst./
+wettbewerb	business rivalry
+sieger	winner
+verfassung	trim
+geschnitten	to clip
+quietschen	grating
+unschuldigen	innocent
+menschlich	human
+eigenartig	individual
+kabel	cable
+zahn	clip [coll.]
+kisten	goggle box [Br.]
+krankenstation	hospital unit
+leine	cord
+beschreibung	account
+steckte	to put {put
+bahn	pathway
+turm	tower
+mine	mine
+angesichts	consideration
+versager	failure
+deinetwegen	because of you
+angeklagt	to indict (for)
+baden	bathing
+knacken	crack (sharp noise)
+verbindungen	relation (with sb.)
+panzer	armour [Br.]
+bach	brook
+leiser	quiet
+stimmengewirr	buzz
+stirn	forehead
+sanft	placidly
+kloster	monastery (for monks)
+charmant	charming
+aufbauen	building-up
+anlass	occasion of sth. / to do sth. [formal]
+verlieben	falling in love
+leber	liver
+jener	that
+begegnen	to encounter {vi}
+krawatte	tie
+tarnung	screen
+alpha	Alpha
+tabletten	tablet
+faust	fist <fisting>
+auftreten	demeanour [Br.]
+blatt	sheet
+dschungel	jungle
+niedlich	cutely
+klage	complaint (statement of dissatisfaction)
+akt	act (division of a work for the stage)
+frisur	hairstyle (men and women)
+spruch	saying
+jene	that
+moral	morality
+angelegenheiten	public affairs
+dokumente	document
+spezies	arithmetic operation
+oktober	October
+schachtel	cardboard box
+noten	sheet music
+irgendwohin	anywhere
+brunnen	well
+lampe	lamp
+jagt	to hound
+eigentum	property
+diebstahl	theft
+spenden	donation
+betrieb	operations
+absurd	absurd
+gegensatz	antonym (of sth.)
+schultern	shoulder
+entwicklung	development (of sb./sth.)
+vergehen	misdemeanour [Br.]
+ahnen	sb.’s forefather
+verbessern	to emend sth.
+herzog	duke
+diskussion	deliberation
+gehalt	pay
+freak	enthusiast
+glocke	bell
+forschung	research (in/into/on sth.)
+geradeaus	straight ahead
+iris	iris
+rechnungen	bill [Br.]
+kasse	evening box office
+gitarre	guitar
+bedienen	waiting
+zwang	compulsion (to do sth.)
+politiker	decision maker
+vereint	unitedly
+irgendeiner	some
+besuche	visit (to a place or institution)
+schoss	plant shoot
+werkzeug	instrument
+kranken	invalid
+neffe	nephew
+dauerte	to last
+brooklyn	Brooklyn (borough of New York City)
+hergebracht	to bring sb./sth.
+just	just
+durchziehen	to knock off sth. 
+gepackt	to thrill sb.
+service	motor vehicle service
+flieger	aircraftman /AC/ [Br.]
+vorschriften	provision
+beherrschen	sway [formal]
+detail	shot size
+herunter	downward
+schriftsteller	(professional) writer
+andererseits	contrariwise
+gene	gene
+jury	jury
+box	tidy
+ausgedacht	to come up with
+partys	party
+plant	to design
+feige	fig
+gesungen	to tell all
+umgeben	to cloak sth.
+berater	adviser
+e-mail	electronic message
+zoo	zoological garden
+gedicht	poem
+bellt	to bark (of a dog, seal etc.)
+baseball	baseball
+locken	lock of hair
+trennung	abscission
+ticket	admission ticket
+umwerfend	to floor sb. [coll.]
+kanzlei	lawyer’s office
+hebt	to heave sth.
+anschlag	lug
+timing	timing
+kid	kid
+etage	tier
+dazwischen	between
+objekt	article
+wobei	but then again
+kokain	cocaine
+strategie	game plan
+wolken	wisp (of sth.)
+getreten	to step
+genosse	comrade
+ungut	nasty (of a thing)
+verteilen	to circulate sth.
+fuchs	fox
+organisiert	to sort sth. [coll.] [Br.]
+aktiv	active
+beantwortet	to answer sth.
+meist	almost
+reis	bough [poet.]
+logisch	logical
+bekannte	acquaintance
+episode	dalliance (with sth.)
+engagiert	to enrol sb.
+manipuliert	to manipulate sb.
+zellen	booth
+dienste	service (activity area of public administration)
+sodass	so that
+golf	bay
+summt	to hum
+unterrichten	teaching
+verschaffen	to bring sb. sth.
+erfahrungen	experience
+streichen	to drop
+weisheit	adage
+vergeht	to pass
+zielen	to aim at sb./sth.
+fans	supporter
+momente	moment
+kameraden	companion
+eingebrochen	to break in
+premierminister	Prime Minister /PM/
+geringste	least
+infiziert	to infect
+kredit	credit side
+legal	lawful
+jubel	jubilation
+bewacht	to guard sb./sth.
+lehren	doctrine
+nacken	nape
+auflegen	laying
+vergangen	past
+sprengen	blasting
+einsperren	confinement
+turner	gymnast
+zusammenhang	context
+breit	broad
+pfeife	plonker [Br.]
+rannte	to rush
+beschuldigt	to indict (for)
+set	kit
+verlegt	to hive off
+tauchen	diving
+nadel	injection needle
+gelacht	to laugh (at sb.)
+apfel	apple
+behilflich	instrumental
+dreckskerl	punk [Am.] [slang]
+wehe	woe
+heirat	marrying
+exakt	spot-on [coll.]
+widerstehen	to withstand sb./sth. {withstood
+methoden	method
+sau	ace (playing card)
+notaufnahme	emergency admission
+verwandten	relative
+trinkgeld	tip
+ermitteln	determination
+sorte	kind
+kartoffeln	potato
+elefanten	elephant
+vereinbarung	arrangement
+harmlos	tamely
+dicken	thickness
+angestellten	staffer
+datum	date
+bezug	procurement
+kerzen	candle
+marsch	street march
+ermittlung	identification (of sth.)
+lagen	coat
+unbekannt	nameless
+gefressen	to eat up ⇆ sth. (use up) (of a thing)
+brett	shelf
+manieren	manners
+han	Han
+schwieriger	difficult
+piloten	aviator
+scherze	angle of shear
+bekannten	acquaintances
+rasen	exceeding (the) speed limit
+empfehlen	to endorse sth.
+geweckt	to elicit sth. (from sb.) [formal]
+reiter	tab (on filing cards)
+empfinden	sentiment
+benutzte	to use sb.
+halloween	Halloween (from Hallows Eve)
+abgesagt	to cancel sth.
+quasi	virtual
+hupen	horn
+hinunter	down
+folgte	to tail sb.
+rebellen	maverick
+schuppen	shanty
+zwanzig	(number) twenty
+berichtet	to report back (on sth.) (to sb.)
+einrichtung	constitution (of sth.)
+november	November
+sensoren	measuring element
+korrigiert	to amend sth.
+houston	Houston
+aufgebracht	resentment
+alternative	alternative
+experte	pundit
+ferne	distance
+prinzip	law
+weisen	wise man
+ozean	ocean
+gelungen	to succeed
+abschaum	scum
+hastings	Hastings (town and borough in Great Britain)
+notruf	distress call
+riss	disruption
+bremsen	brake
+aktivieren	computer virus
+anstrengend	to strain
+antwortet	to answer
+ais	A
+kellner	waiter
+startet	to take off
+gebet	prayer
+riskiert	to invite sth.
+verhindert	to avert sth.
+ausrede	excuse
+darling	Darling (river)
+manhattan	Manhattan (borough of New York City)
+operiert	to operate
+unfassbar	indescribably
+herrin	mistress
+hergestellt	to make sth. {made
+lila	lilac
+gerichtet	to judge sb./sth. (by sth.)
+fordern	to ask (for)
+fischen	fishing
+kriminelle	criminal
+verschafft	to bring sb. sth.
+dezember	December
+anspruch	requirement (of sth.)
+unsichtbar	blind
+ersetzt	to novate
+handtuch	hand towel
+doof	silly
+wertvoll	precious
+kardinal	cardinal
+jefferson	Jefferson (river)
+kommunikation	communication
+operieren	to operate
+analyse	post-analysis
+hochzeitstag	wedding day
+melodie	melody
+rente	retirement
+zeremonie	observance
+platte	paving slab
+ersatz	compensation
+zeugin	witness
+versichert	to reassert sth.
+russisch	Russian
+passagiere	passenger
+diebe	thief
+elend	distress
+andauernd	to continue
+ungeheuer	monster
+fit	in shape
+zeitverschwendung	time-waster
+ansicht	sight
+vierte	fourth
+interessen	interest (in sb./sth.) (curiosity)
+anlage	attachment
+autounfall	car accident
+gefangener	prisoner
+aufstand	insurrection
+schafe	sheep
+kontakte	contact
+trip	trip
+notizen	note /N.B./ /NB/
+ausgegeben	spent
+versorgt	to provide sb. with sth. (useful)
+gnaden	mercy
+piraten	pirate
+muskeln	muscle
+unwahrscheinlich	unbelievable
+steak	steak
+japaner	Japanese man
+spritze	injection
+fesseln	bonds
+umarmen	to embrace
+loser	loser
+begleitet	to accompany sb.
+morden	to do to death ⇆ sb.
+eingefallen	to impinge on/against sth. 
+schneide	cutting edge
+weiten	to broaden sth.
+musiker	musician
+reichweite	operating radius
+maya	Maya
+handys	mobile phone [Br.]
+erschien	to turn up
+schach	check situation
+explodieren	to have a hissy fit
+kater	tomcat
+heult	to bay
+hinfahren	to point
+bedingung	condition
+top	top
+gemocht	to like sth.
+konkurrenz	competition (economic mechanism)
+erfordert	to take sth.
+unsicher	self-conscious
+festung	fortress
+runden	lap
+detektiv	detective
+pastor	pastor
+kratzer	belt cleaner
+junges	young one
+gruselig	frightening
+flugzeuge	aeroplane [Br.]
+intelligenz	intelligence
+stieg	to go up
+zugestimmt	to agree to/with sth.
+mutti	ma
+konzentriert	intent
+reserviert	aloof
+bude	booth
+metall	metal
+absichten	intention
+handschuhe	glove
+arrangiert	to arrange sth.
+verwundet	to injure sb.
+absagen	refusal
+egoistisch	self-seeking
+ranch	ranch [Am.] [Austr.]
+temperatur	temperature
+weggenommen	to take off
+tickets	admission ticket
+ablenken	deflection
+verletzung	injury
+anwesend	present (at)
+umlegen	allocation
+gemalt	to picture
+adler	eagle
+lunge	lung
+sonnenuntergang	sunset
+oper	opera
+agentur	agency
+krach	argument
+ablehnen	to dismiss (sth.)
+pfeil	arrow
+unbekannte	stranger
+aussprechen	verbalization
+route	journey route [Br.]
+emotional	emotional
+sektor	compartment (of a ship)
+blockiert	barred
+schweden	Swede
+nummern	act, turn
+frosch	leapfrog (road building)
+anfangs	initially
+verwandt	cognitional
+cola	coke [coll.]
+falscher	improper
+quellen	moisture expansion
+f	F
+silber	argent
+umschlag	envelope
+hinsicht	respect
+ereignis	occurrence
+vergraben	to bury sth. in sth.
+gebunden	to absorb sth.
+ente	duck
+kommentar	annotation
+zivilisation	civilization
+tiefen	depth
+reicher	rich
+verhaftung	arrest (of sb.)
+meldung	notification (of sth.)
+bohnen	bean
+pfeifen	plonker [Br.]
+hall	reverb
+raketen	rocket (missile with thrust propulsion)
+versetzen	moving
+ziege	goat
+eid	oath (with a reference to God)
+burschen	lad
+zweit	two of …
+unterscheiden	to distinguish sth.
+gerechnet	to anticipate sth. (future development)
+telegramm	dispatch
+babysitter	babysitter
+pfad	alley
+getanzt	to dance
+mafia	Mafia
+verteidigt	to defend sb./sth. (against sb./sth.)
+abschalten	cut-off
+wellen	axle
+besoffen	blind-drunk
+angehalten	to stop sb./sth.
+assistent	diener
+ketten	string (of sth.) (series of things)
+reist	to journey
+bot	to provide sth. (present sth. useful)
+inwiefern	in what way
+pille	dot
+bock	trestle
+korb	rejection
+herrschaften	mastery
+bedauern	unhappiness
+angefasst	to take hold of
+aufrichtig	sincere
+versorgen	to furnish sth. with sth.
+sperren	barrier
+naiv	unsophisticated
+mauern	outdoor wall
+erweisen	to manifest
+samurai	samurai
+hoffnungen	hope (for sth.)
+feststellen	to assess sth.
+quartier	billet
+neidisch	jealous (of)
+chips	semiconductor chip
+zugelassen	accredited (person)
+schlauer	sly
+aushalten	to last
+einschlafen	to fall asleep
+transport	conveyance
+laptop	notebook computer/PC
+arrangieren	to marshal sth.
+status	state
+zweifellos	without doubt
+skandal	affair
+angebracht	to fix
+pressen	press
+papierkram	paperwork
+gemeinschaft	community
+instinkt	instinct
+flitterwochen	honeymoon
+narbe	scar
+kombination	combination
+ausprobieren	to test sth. (on sb. / for sth.)
+solcher	such
+geliebter	sb.’s lover
+ignoriert	to disregard sth.
+zahnarzt	dentist
+gelitten	to suffer (from)
+zutritt	access (to)
+vergewaltigung	rape (of sb.)
+streich	coup
+kichert	to giggle
+kreaturen	creature
+reif	band
+dicker	the fat one
+nest	nest of ore
+angerichtet	to wreak (damage, havoc)
+helm	dome
+bingo	bingo
+bemerken	awareness (of sth.)
+herbst	autumn
+nazis	National Socialist
+stamm	tree trunk
+auswahl	choice
+sichergehen	to be sure
+antreten	parade (regular assembly)
+vorstand	board of (executive) directors
+organisieren	organizing
+tank	oil font
+besprechung	discussion
+studium	course of study
+kreditkarte	credit card
+schwuchtel	shirt-lifter
+profil	geological section
+donner	thunder
+schrecken	scare
+stall	mews
+hotels	hotel
+kandidaten	aspirant
+schulen	pod
+fester	tight
+geregelt	to settle sth.
+unterbrochen	to break sth. {broke
+einzelheiten	detail
+stattfinden	to be on (of an event)
+fortschritt	progress
+feierabend	end of work
+feste	medieval castle
+burger	hamburger
+spannend	excitingly
+einnehmen	to absorb
+schalte	live connection (with sb./to a place) (TV, radio)
+passwort	password
+mittlerweile	meanwhile
+zivilisten	civilian
+emotionen	emotion
+beurteilen	to assess
+stars	star
+erwachsenen	adult
+division	division
+werft	shipyard
+banken	bank
+option	call option
+rettete	to rescue sb. (from a dangerous/difficult situation)
+aufstellen	placement (of sth. in a place)
+husten	cough
+schublade	drawer
+seattle	Seattle (city in the USA)
+befragt	to question sb.
+buchstaben	letter
+gestiegen	to rise {rose
+abgefahren	to leave
+gewaschen	to wash
+anzahl	number (of sth.)
+zombies	zombie
+vorkommen	occurrence <occurrance>
+festnehmen	to catch sb.
+kern	nucleus
+gefeiert	to observe sth.
+erfindung	fiction (as opposed to fact)
+autopsie	post-mortem examination
+rucksack	rucksack
+zwingt	to bludgeon sb. into doing sth.
+einsamkeit	loneliness
+gesprungen	to leap (to a place) {leaped/leapt
+t-shirt	T-shirt
+geopfert	to sacrifice
+lena	Lena (river)
+beiseite	aside
+umgekehrt	obversely [formal]
+ausgesprochen	to put sth. into words
+beseitigen	to remove sth.
+burg	medieval castle
+gesperrt	closed off
+irrer	madman
+drehte	to rotate
+frech	insulting
+einziehen	moving-in
+genehmigung	permission (to do sth.)
+tankstelle	filling station
+versteckte	to hide sth. {hid
+interessanter	interesting
+schneider	tailor
+gelb	yellow (colour)
+handtasche	handbag
+urteilen	to judge sb./sth. (by sth.)
+preise	award (for sb.’s merits)
+unbekannten	unknown
+gelten	force
+butler	butler
+saison	season
+partnerin	partner
+haltung	poise
+vollidiot	complete idiot
+fasst	to grab sb./sth. (by sth.)
+minus	minus
+pflichten	duty
+ruhestand	retirement
+kai	quay
+bewachen	guarding
+vera	tautology (statement that is imperatively true) (logic)
+lieder	song
+dreckig	dirty
+verbreiten	to utter (money, counterfeit money)
+first	roof ridge
+bedenkt	to bethink {bethought
+beschweren	to burden sb./sth. (with/by sth.)
+gauner	crook [coll.]
+verursachen	to wreak (damage, havoc)
+produkt	product
+tafel	diagram /diag./
+kacke	crap [slang]
+versammelt	to gather sb.
+geschrei	shouting
+ruder	oar
+allah	Allah (name of God in Islam)
+kaninchen	domestic rabbit
+systeme	system
+orange	orange (fruit)
+platten	paving slab
+geliehen	to borrow sth. (from sb.)
+befolgen	observance (of sth.)
+zombie	zombie
+mahlzeit	meal
+aufbrechen	decampment
+kenntnis	skill (at, in)
+verbindet	to tie
+geantwortet	to answer
+italienisch	shot size
+klagen	complaining
+dichter	poet
+gratis	complimentary
+abgegeben	to give off ⇆ sth.
+angemessen	adequate
+ohnehin	anyhow
+chinesisch	Chinese
+orden	decoration (medal as well as award)
+angeheuert	to charter
+bezeichnen	to indicate sth.
+beruflich	occupational
+bedeckt	to cover sb./sth. (with sth.)
+geraucht	to smoke sth.
+begeben	to issue sth. (securities)
+pop	pop
+infektion	infection (process)
+entspricht	to comply with sth.
+winkel	corner
+experten	pundit
+betten	bed
+boxen	boxing
+torte	rich cake
+austausch	relocation
+aufregen	to agitate sb.
+vermuten	to surmise
+geheimdienst	intelligence service
+schlangen	line (of people)
+genick	nape
+wuchs	physique
+schinken	ham
+wien	Wien (river)
+fetten	to grease sth.
+hai	shark
+binden	bandage
+erpressung	blackmail (threat of public exposure)
+derzeit	currently
+keines	neither
+sammlung	gleanings
+tauchte	to dive dive {dived
+ergreifen	prehension
+bewohner	dweller
+entschied	to decide (on)
+supermarkt	supermarket
+offiziere	officer
+verwandte	relative
+schwachkopf	fool
+rangehen	telephone call
+naomi	naomi
+januar	January
+kranke	invalid
+eifersucht	jealousy (of)
+sprang	to leap (to a place) {leaped/leapt
+polen	to polarize
+erfasst	target
+besonderer	particular
+durchmachen	to undergo {underwent
+dallas	Dallas (city in the USA)
+verschwendet	to dissipate
+ausgeschaltet	off
+ufer	riverside
+risiken	peril
+schrie	to bawl
+beeinflusst	to influence sb./sth.
+ausgebildet	to train sb.
+bezirk	municipal district
+herrje	Cripes!
+beauftragt	to authorize sb.
+abgeschnitten	to cut off
+henker	executioner (of death sentences)
+ausgezogen	to take off
+beschloss	to conclude sth.
+scheibe	window pane
+konferenz	conference (on)
+flecken	block construction
+sonnenaufgang	sunrise
+braun	brown (colour)
+diagnose	diagnosis
+paranoid	paranoid
+weltraum	outer space
+vorbild	exemplar
+halle	reception lobby
+wandern	hiking
+frost	frost
+gehandelt	to traffic in sth.
+kabine	nacelle
+chefin	chief
+datenbank	database
+gesegnet	blessed
+teilnehmen	to attend sth. (event, scene)
+blonde	blonde
+bunker	Atlantic menhaden
+geteilt	to partition
+geeignet	adapted
+hindern	to inhibit
+fahrstuhl	passenger lift [Br.]
+flagge	flag
+italiener	Italian
+disziplin	discipline
+erzogen	to parent sb.
+kongress	congress
+eingezogen	to call up
+kurzer	a short [Br.]
+schirm	blind
+merlin	falcons (zoological genus)
+charme	charm
+mitfahren	to go with
+anzeigen	notice (of sth.)
+empfindlich	susceptible
+parken	parking (act)
+gestrichen	to drop
+reichlich	copiously
+mode	fashion
+songs	song
+ausgeraubt	to rob sb.
+hahn	cock
+krachen	crash
+versammlung	assembly (process)
+folter	torture (of sb.)
+speck	flab [coll.]
+piept	to pule
+verbreitet	to utter (money, counterfeit money)
+tore	fool
+saal	hall
+wirtschaft	eating establishment
+fremd	out of it
+mehrmals	occasion
+generationen	generation
+abbrechen	breaking-off
+seife	soap
+herde	herd
+zwerg	pipsqueak [coll.]
+neffen	nephew
+festgehalten	to persist in sth.
+ablenkung	diversion
+totale	shot size
+herrscher	ruler
+sprengstoff	explosive substance
+erdbeben	earthquake
+figuren	figure
+po	buttock(s) [med.]
+gleichgewicht	balance
+schalter	counter
+zuneigung	attachment (to)
+rollstuhl	wheelchair
+bienen	bee
+mischen	shuffle (of playing cards)
+hauptstadt	capital
+koks	cocaine
+piepen	blip
+gelegen	located
+banditen	bandit
+hasste	to detest
+getestet	to test sth. (on sb. / for sth.)
+dosis	dose
+somit	thus
+hacken	mattock
+kammer	storage closet
+bezaubernd	charming
+wiederholt	to replicate sth.
+zueinander	to each other
+tattoo	tattoo
+finsternis	darkness
+schmerzt	to hurt {hurt
+gelehrt	learned
+gewechselt	to alternate (with sth. / between sth.) (of things)
+redete	to discourse (on/about sth.)
+entdeckte	to discover sth.
+wirkte	to take effect
+scheine	pass (for using a service)
+transporter	delivery vehicle
+moderne	modernity
+wilder	savage
+abgelenkt	to distract sb. (from sth.)
+abzug	deduction
+becher	pottle [NZ]
+sicherstellen	to ensure
+anweisung	instruction
+klettern	to climb
+geste	gesture
+privatleben	personal
+zusammenarbeit	association
+hinauf	up
+tokio	Tokyo (capital of Japan)
+sicherheitsdienst	security service
+kaugummi	bubble gum
+huren	prostitute
+garantieren	to warrant sth. (of a person)
+kommunizieren	communicating
+technisch	technical <technic> <technique>
+billiger	approver
+standort	site
+wagt	to hazard sth.
+leugnen	denial
+landung	landing
+schockiert	to dismay
+begleitung	chaperoning
+allianz	alliance
+vermutet	to surmise
+echo	echo (acoustics)
+herstellen	to make sth. {made
+lokal	premises
+sklave	slave
+honig	honey
+videos	video recording
+verkehrt	perverse
+segeln	sailing (of a whale)
+bewahrt	to retain sth.
+ganzer	whole
+doris	Doris (ancient Green region)
+verurteilen	to denounce sth. (as sth.)
+februar	February
+begegnung	encounter (with sb./sth. / between sb./sth.)
+steige	via ferrata
+feuerwehr	fire brigade [Br.]
+grauen	horror (of)
+gewann	selion of land
+vertreter	agent
+liebend	to love
+marge	profit margin
+serviert	to serve up ⇆ sth.
+heilig	venerable
+gewaltig	prodigious
+knoten	bun (hairstyle)
+begriffen	to comprehend
+hinrichtung	execution (of sb.)
+ablegen	delevitation (magnetic bearing)
+stimmte	to vote
+drohen	danger
+stundenlang	lasting for hours (postpositive)
+hausmeister	landlord
+helikopter	helicopter
+puppen	doll
+juwelen	gem
+bogen	bend
+duft	redolence
+respektiert	to respect sb.
+schein	pass (for using a service)
+gewehre	gun
+kellnerin	waitress
+vertraulich	intimate
+insgesamt	all in all
+untersuchungen	inquisition (into)
+platt	Low German
+aufrecht	upright
+bedient	to attend to sb.
+mangel	absence (of)
+hoher	high
+knien	kneeling
+hobby	fad
+nachtisch	dessert
+kollegin	colleague
+alptraum	nightmare
+ausgesehen	to look (like)
+reichtum	richness
+eisen	(processed) iron
+haftbefehl	warrant of arrest
+verletzte	injured person
+erfinden	to weave {wove
+ernte	harvest
+kamin	chimney
+weste	waistcoat [Br.]
+kennzeichen	identifier
+kronen	top
+z	Z
+siegen	to win {won
+gratulieren	to congratulate (on)
+schwager	brother-in-law
+infos	piece of information
+dose	tin can
+erschienen	to appear
+magazin	stack room
+klemme	clip
+schenkt	to give {gave
+nachbarin	neighbour [Br.]
+formel	formula
+hervor	forth
+wohnwagen	camping vehicle
+wegwerfen	to ditch
+spinne	spider
+tumor	growth
+bezahlung	payment (of sth.) (process)
+grob	broad-brush
+nagel	fingernail
+starren	to stare
+vertreiben	to frighten away
+gitter	grid
+gin	gin
+spinnen	spider
+gestalt	character
+liter	litre
+illusion	make-believe
+plaudern	to blab (to sb.)
+schneidet	to clip
+welle	axle
+samuel	Samuel
+haft	imprisonment
+spannung	strain
+knallt	to crack
+bestimmung	stipulation
+tresor	safe
+amber	ambergris
+fischer	fisherman
+verluste	leakage
+lehre	doctrine
+revolver	revolver
+schrott	scrap metal
+vorhang	blind
+mitspielen	equation [fig.]
+erregt	to energize
+unterrichtet	to instruct sb.
+lagerhaus	warehouse
+raub	robbery (criminal offence)
+visionen	vision (of sth.) [fig.]
+firmen	company
+verhandlungen	hearing
+verdorben	miscreant
+produktion	making
+krankheiten	disease
+bluten	bleeding
+beamten	established civil servant
+bereden	to discuss sth. with sb.
+futter	fodder
+muschi	pussy [slang]
+beschuldigen	to indict (for)
+aktien	share [Br.]
+sexuell	sexual
+kinderspiel	breeze [Am.]
+dummheit	density
+gezahlt	to make payment
+bewegungen	motion
+karre	cart
+abziehen	disengagement
+bedarf	need
+umgelegt	horizontal
+inhalt	capacity
+dankbarkeit	gratitude
+geehrt	to dignify
+make-up	make-up
+messe	church festival
+anwesen	estate
+deutscher	German
+gebete	prayer
+pommes	potato chips [Br.]
+toni	tone
+lande	country (in the international community)
+ruht	to rest
+anerkennung	acknowledgement [Br.]
+galaxie	stellar system
+vermutung	hypothesis
+inklusive	complete with
+fernhalten	distancing
+statue	effigy
+finale	final
+verzweiflung	despair
+deprimiert	depressed
+erteilen	issuance (of an administrative order)
+rahmen	chassis frame
+durchgedreht	to panic
+erteilt	to issue
+fotze	cunt
+kanonen	cannon
+klub	football club [Br.]
+jubeln	to exult
+servieren	waiting
+weltweit	all over
+fotografieren	picture
+niederlage	defeat
+zehen	toe
+logik	logic
+stillen	breast-feeding
+todesursache	cause of death
+beschaffen	to supply
+abgezogen	to skin
+gruppen	element group
+durchhalten	to stick {stuck
+kooperieren	to co-operate
+greif	griffin
+forderungen	claim (against sb.)
+anfall	turn
+mitbekommen	to get sth.
+ingenieur	engineer (with university degree) /eng./
+andenken	souvenir
+eintreten	allegiance (to sb./sth.)
+zustimmung	public acclaim
+besagt	(Sache) to suggest sth. (show) (of a thing)
+roter	pinko
+flamme	flame
+dokument	document
+federn	quill
+paps	daddy
+auswendig	parrotlike
+spezielle	specials
+experimente	experiment
+szenen	tableau
+pfannkuchen	donut
+hase	hares and jackrabbits (zoological genus)
+aufenthalt	stay
+devon	Devonian
+verstecke	hiding place
+summen	drone
+blutung	bleeding
+hilflos	stranded
+ehrlichkeit	sincerity
+messen	fair
+stur	stroppy [Br.] [coll.]
+ringe	ring
+weiterleben	to go on living
+keks	bonce [Br.] [coll.]
+mieten	rent
+speziell	specifically
+neugier	curiosity
+ausgefallen	to fall out
+verstorbenen	deceased person
+verkleidet	disguise
+entdeckung	discovery
+betteln	begging
+blond	blonde (women’s hair)
+weggegangen	to go out (with sb.)
+abgebrochen	to break sth. {broke
+herkunft	(social) origin
+annahme	acceptance
+gestank	bad smell
+truthahn	turkey cock
+bereithalten	to have/hold in store (for sb.)
+touristen	tourist
+feucht	steamy
+jeans	pair of jeans
+befragung	interview
+abgelaufen	to expire
+depp	fool
+ausschau	lookout
+kreischt	to squawk
+bellen	bay
+manipulieren	gerrymandering
+studie	sketch
+knurren	growl
+busch	bush
+abwesenheit	absence (of)
+komplizierter	complicated
+bestellung	purchase order
+tatsachen	fact
+heiligkeit	sanctity
+verglichen	to liken sb./sth. to sb./sth. [formal]
+sehnsucht	yearning
+demokratie	democracy
+aggressiv	aggressive
+ausleihen	lending
+schlucken	(medicinal) drug
+wesentlich	vital
+satan	Satan
+erben	heir
+police	insurance policy
+horn	horn
+eiskalt	glacial
+sirene	alarm horn
+ritual	ritual
+pflanze	plant
+investiert	to invest money in sth.
+formen	baking dish
+freundchen	pal
+freigelassen	to release sb.
+rausgeworfen	to throw out ⇆ sb.
+bescheiden	unassumingly
+garderobe	dressing room
+streifen	band
+voneinander	from one another
+wirt	landlord
+kasten	moulding box
+zeichnen	drawing
+backen	chuck jaw
+scheitern	foundering
+salon	drawing-room
+medikament	(medicinal) drug
+geboten	to offer
+spike	spike
+lebensmittel	food
+ruhiger	quiet
+durchsuchungsbefehl	warrant
+benommen	to obtund sth.
+adieu	good-bye
+vortrag	recitation (of sth.)
+sherry	sherry
+flittchen	floozie
+u-boot	mole
+endete	to end
+she	She
+as	A
+durchbruch	fracture
+model	fashion model
+besitze	tenure
+sophia	Sophia
+chor	choir (group of singers)
+zuschlagen	slam
+schere	divide
+kampagne	drive
+gestartet	to take off
+reinigen	cleaning (of sth.)
+stoppt	to break sth. {broke
+berufung	elevation
+zeitplan	timetable
+zerbrochen	to cleave {clove, cleaved
+verfluchter	cursed
+weichei	wimp
+jegliche	any
+versuchung	pander
+beitrag	portion
+picknick	picnic
+argument	argument
+reiner	clean
+dummheiten	mischief
+meile	mile
+hamburger	hamburger
+kontaktiert	to get in touch with sb.
+spione	spy
+erinnerte	to remind sb. of sth.
+dynamit	dynamite
+organe	organ
+fell	pelt
+sonnenschein	sunshine
+lache	sounds of laughter
+aufgelegt	to hang up
+schottland	Scotland
+drohung	threat (to sb.)
+wa	Va
+wende	change (in sth. / from sth.)
+gefoltert	to torture sb.
+erwachsener	grown-up
+einzigartig	unique
+profis	adept
+ressourcen	resource
+bischof	bishop
+ausstehen	to be outstanding (money)
+geschwister	sibling
+axt	axe
+dampf	exhalation
+missbraucht	to abuse sb./sth.
+loyal	loyal (of a person)
+wurzeln	garden carrot
+wurm	serpent
+kerze	candle
+loslegen	to go into action
+besatzung	the occupying forces
+schmerzhaft	painful
+beschrieben	to describe
+zittern	tizzy
+standpunkt	attitude
+visier	gunsight
+rang	echelon
+phoenix	Phoenix
+theoretisch	in a general way
+beutel	bag
+klient	client (of a liberal professional)
+veranda	veranda
+strahlung	radiation <irradiation>
+unendlich	terminating
+gedichte	poem
+gereist	to travel
+schwangerschaft	pregnancy
+kopien	duplicate
+zweifeln	to doubt (of
+nonne	(roof) tile
+richtet	to straighten (out)
+lecken	leak
+feuerwerk	fireworks
+neueste	the latest … {adj}
+verletzten	injured person
+abwechslung	change
+kleingeld	small change
+gelegentlich	occasionally
+denise	denise
+braten	roast
+angelegt	to lay out ⇆ sth. (garden, town etc.)
+entsteht	to come into being
+herzschlag	heartbeat
+heilung	healing (of a patient)
+angeklagten	accused
+profit	profit
+verschieden	separate
+stadtrat	town council
+pressekonferenz	press conference
+geschaut	to behold sb./sth. {beheld
+zugegeben	to acknowledge sth.
+regie	direction
+merk	water parsnips (botanical genus)
+boote	boat (small vessel)
+verbrennt	to incinerate
+allergisch	allergic (to)
+schweizer	milker
+gasse	lane
+tussi	cow
+ehemaliger	alumnus
+radar	radar
+gestattet	to permit
+gefecht	engagement
+angeschaut	to watch sth.
+gedient	to operate as sth.
+pension	civil servants’ pension [Br.]
+strich	dash
+lippenstift	lipstick
+stab	rod
+termine	appointed date
+maler	painter
+verweigert	to balk
+boxer	boxer
+vorteile	benefit
+ausstellung	issuance
+tragisch	tragic
+rasch	rapidly
+oberste	Colonel /Col./ [Br.] [Am.] [Can.] (rank)
+polizistin	policewoman
+windeln	nappy [Br.]
+detroit	Detroit (river)
+aufheben	setting
+narben	scar
+freizeit	free time
+elegant	gracefully
+dolch	dagger
+eindringen	irruption
+auszeit	time-out
+weggeworfen	to ditch
+vergeuden	dissipation (of sth.)
+blass	palish
+konzept	concept
+look	fashion look
+keineswegs	not at all
+faden	fathom /fm/ (unit of length – 6 feet)
+kleinste	least
+geschrien	to roar
+ertrunken	to drown (of a swimmer)
+blase	bladder
+treffpunkt	meeting point
+schrift	academic paper
+mathe	mathematics
+konzentration	concentration
+schaltet	to switch
+draht	rapport (with sb.)
+gerannt	to rush
+reinigung	catharsis
+fordert	to claim sth. (from sb. / for sth.)
+ideale	ideal
+stiehlt	to thieve
+eiern	wobble (of sth.)
+dritter	third
+optionen	call option
+ersticken	asphyxiation
+farmer	farmer
+batterie	battery
+obst	fruit
+badewanne	bath [Br.]
+manches	many a
+droge	addictive substance
+enge	narrows
+nickerchen	nap
+lungen	lung
+abschneiden	abscission
+hierbei	while doing this
+gen	blowhole
+ungerecht	iniquitous
+reue	penance
+rhythmus	rhythm
+mitgehen	to be on for sth.
+siegel	seal
+moore	mire
+stechen	injection
+baue	den
+prostituierte	prostitute
+heller	light
+umgehend	immediate
+hoffnungslos	hopeless
+checken	to check sth.
+venedig	Venice (city in Italy)
+genutzt	to utilize
+verzieh	to excuse sth.
+wiegt	to dandle
+seltsamer	strange
+hiervon	thereof
+beraten	to mentor sb.
+schienen	rail (railway)
+ideal	exemplar
+marschieren	to march
+mitbewohner	flatmate [Br.]
+verlobung	promise of marriage
+funken	spark (also [fig.])
+gleichfalls	too
+vereinbart	to agree with sb. to do sth.
+balkon	balcony
+umkehren	U-turn
+rechtfertigen	to justify
+inspiriert	to inspire sb. to sth.
+murray	Murray
+ertrinken	drowning
+eingetroffen	to arrive
+vorerst	for the time being
+verirrt	errant
+liga	league
+wertlos	riffraff
+gesammelt	collective
+bezeichnet	to indicate sth.
+netzwerk	net
+moses	Moses (Biblical figure)
+entstehen	accrual
+lauten	lute
+fasziniert	to thrill sb.
+akademie	academy
+branche	branch of trade
+situationen	situation
+erzeugt	to make sth. {made
+registriert	registered /Regd./
+basketball	ball
+abgesetzt	to deposit
+vorsitzender	chairman /chm./
+suite	suite
+regieren	to rule (over)
+barkeeper	barman
+ausgemacht	to turn off ⇆ sth. (alarm, music etc.)
+dateien	computer file
+wolke	flaw
+wall	defensive wall
+umgang	acquaintances
+festen	medieval castle
+erziehung	education (for a particular behaviour)
+institut	institute
+hingerichtet	to put to death
+lenken	to guide
+angewiesen	to authorize sb.
+bass	bass
+lahm	paralyzed
+basiert	to be based
+rasieren	to shave {shaved
+angeordnet	to order sth.
+untergang	decline
+flach	plane
+autogramm	autograph
+kompanie	company
+solches	such
+sackgasse	catch-22 situation
+einbrecher	burglar
+stehenbleiben	to stop
+erwartungen	expectation
+erraten	to guess sth.
+vorsprung	eminence
+kurve	bend
+verziehen	draft
+invasion	invasion (of a pathogenic agent)
+pissen	piddle [Br.]
+klarer	distilled spirit [Br.]
+herrschen	to obtain
+outfit	outfit
+prinzipien	principle
+drecksack	dirtbag
+frischen	decarburization
+geduldig	uncomplaining
+pest	plague
+beschwert	to burden sb./sth. (with/by sth.)
+erzeugen	to make sth. {made
+erstickt	to damp
+vagina	vagina
+nutten	prostitute
+zoll	inch /in/ (unit of length)
+region	region
+riefen	stria
+wachmann	police officer
+gipfel	summit
+jammer	ruefulness
+galerie	balcony
+enkelin	granddaughter
+tinte	ink
+journalist	journalist
+platzen	burst
+prophezeiung	prediction
+winzig	cramped
+tonnen	barrel
+lizenz	franchise
+ermittelt	to locate sb.
+stufen	relief
+student	collegian
+absetzen	deposition
+schwindel	imposture
+national	national
+vorgeschlagen	to propose sb./sth. (to sb.) [formal]
+arbeitslos	jobless
+borg	barrow (castrated male domestic pig)
+philadelphia	Philadelphia (city in the USA)
+pfoten	paw
+kalender	manyplies
+friseur	hair-dresser
+fertigmachen	to bork sb. [Am.] [coll.]
+gedroht	to threaten sb. (with sth.)
+ermordung	assassination (of a celebrity)
+diskret	discrete
+kriechen	surface leakage
+zauberei	feat of magic
+biss	bite (wound)
+komischer	freaky
+hotelzimmer	hotel room
+delta	Delta
+frequenz	frequency
+summer	buzzer
+verband	masonry bond
+gebucht	to post
+investieren	to invest
+ehemalige	alumnus
+geier	vulture
+anschuldigungen	accusation
+tomaten	tomato fruit
+philosophie	philosophy
+programmiert	to program [Am.]
+festgestellt	to assess sth.
+kneipe	tableround
+sumpf	precipitation tank
+apotheke	pharmacy
+liefert	to provide sth. (present sth. useful)
+wehen	contractions
+bastarde	bastard
+erstochen	to knife sb. to death
+schal	scarf
+anklagen	indictment (of sth.) [fig.]
+sammelt	to collect
+gegenzug	exchange
+unterkunft	billet
+freilassen	to undam
+grau	grizzle
+hunt	mine car
+niere	kidney
+kratzen	grating
+altar	altar
+erstaunt	to amaze sb.
+ausbruch	florish (of sth.)
+tuch	blanket
+fahne	alcohol halitosis
+beleidigung	abusive behaviour [Br.]
+bedeutete	to imply sth.
+unheimliche	weirdness
+unsterblich	undyingly
+hohes	high
+evakuieren	to exhaust
+produziert	to make sth. {made
+nachfolger	successor
+blicke	sight
+chauffeur	chauffeur (driver)
+ironie	irony
+ausreichend	to suffice
+hit	bit hit
+anderthalb	one and a half
+ihretwegen	because of her
+limonade	sherbet
+tequila	tequila
+schlachtfeld	battlefield
+angreifer	aggressor
+hingegangen	to go there
+schale	eggshell
+angriffe	aggression
+motto	motto
+eintritt	ingress
+bh	brassiere
+betroffen	to concern sth.
+misstrauisch	suspicious (of)
+verwirrend	to disorient
+kapelle	fume cupboard
+starkes	leather
+gebetet	to pray (to
+einrichten	set-up
+ausnutzen	to practise on (upon)
+kinn	chin
+quatschen	confabulation
+automatisch	automatic <automatical>
+spritzen	injection
+einwohner	inhabitant
+pink	hot pink
+gezeichnet	to picture
+steif	ceremonious
+rekord	record
+durchgeknallt	crazy
+erspart	to spare sb. from sth.
+armband	bracelet
+adoptiert	to adopt sb.
+komplizen	accomplice
+einschalten	power up
+handschrift	longhand
+assistenten	assistant /asst./
+gemietet	to hire sth. [Br.]
+mischung	batch
+luxus	indulgence
+schwung	enthusiasm
+hochgehen	burst
+wegtreten	to fall out
+beherrscht	to contain
+grippe	influenza
+informanten	(secret) informant
+floh	flea
+fitz	line tangle
+nudeln	noodle
+schaf	sheep
+uhrzeit	time of (the) day
+zigarre	cigar
+vollmond	full moon
+mexikaner	Mexican
+piepst	to cheep
+gestoppt	to time sb./sth.
+eingerichtet	to make sth. ready
+umarmung	hug
+rohr	baking oven
+batterien	battery
+spende	baksheesh
+mumm	courage
+gans	goose
+leuchten	lighting unit
+alien	alien
+dom	cathedral church
+unterzeichnet	to sign sth.
+operationen	action
+vermissten	missing person
+angespannt	strained
+fies	scurrilous
+heilt	to cure sth.
+auswirkungen	encroachment
+geschlecht	gender
+buchhalter	accountant
+drache	dragon
+deuten	to gesture for/to sb. to do sth.
+bildung	formal education
+aufbewahrt	to keep sth. stored
+erpresst	to blackmail sb. (with sth.)
+hinbringen	to spend (time) {spent
+angesetzt	to put on ⇆ sth.
+volltreffer	direct hit
+herrschaft	control
+aufgefunden	to find {found
+distanz	distance
+verheimlichen	concealment (of sth.)
+verstorben	to decease
+letztens	recently
+billigen	to countenance sth. [formal]
+verschont	exempt
+rendezvous	date
+empfehlung	recommendation
+handgelenk	wrist joint
+boten	office messenger
+unterzeichnen	to sign sth.
+belasten	application of load
+literatur	literature
+gelangt	to suffice
+quer	abreast
+satelliten	satellite (satellite engineering)
+analysieren	analysation (of sth.)
+zutiefst	deeply
+geleitet	to conduct
+schlachten	battle (of + place)
+angestellte	staffer
+gestalten	character
+stipendium	scholarship
+illegale	non-national
+vergiften	to befoul
+feiert	to revel
+involviert	to implicate sb. in sth.
+wurf	dropping (of bombs)
+maschinenraum	engineroom
+inspiration	inspiration
+ohio	Ohio (river)
+samen	seeds
+hinterhalt	ambush
+gewahrsam	detention
+einatmen	inhalation
+schlampen	floozie
+entlassung	discharge (from)
+todesstrafe	death penalty
+ausgebrochen	to chip
+wegfahren	to move off
+sultan	sultan
+hauch	aura (of sth.)
+abstellen	to turn off ⇆ sth.
+produzieren	to make sth.
+routine	routine
+schneid	courage
+umkreis	circumcircle
+beschwerden	complaint
+genehmigt	to approve sth. (project, proposal)
+bildern	to form patterns (fabric defect)
+schenkte	to give {gave
+erschlagen	to do to death ⇆ sb.
+yard	yard /yd./
+journalisten	journalist
+arabisch	Arab
+juckt	to itch
+zerrissen	to tear apart ⇆ sth.
+tausch	trade-off
+schlaganfall	apoplectic stroke
+johannes	peter
+popcorn	popcorn
+jet	jet aircraft
+garantie	guarantee
+anstand	grace
+junkie	drug taker
+vati	daddy
+topf	pot
+verabschiedet	to see off ⇆ sb.
+sprecher	speaker
+chemie	chemistry
+hinweisen	to allude to sth.
+stumm	silent
+zusammenhalten	solidary
+geradezu	really
+weite	expanse
+rippen	rib
+techniker	repairman
+betet	to pray (to
+beachten	observance (of sth.)
+baute	structure
+schecks	cheque [Br.]
+ausgabe	edition /ed./
+vermasseln	to muddle
+laken	bed sheet
+bildet	to form sth.
+lastwagen	commercial vehicle
+kritik	commentary
+sofern	so long as
+vermisste	missing person
+entsetzlich	sickening
+ermittler	investigating detective
+aufgestanden	to arise
+abschnitt	sequence 
+hausarrest	house arrest
+sensibel	sensitive
+album	album
+lebewesen	living thing
+verwechselt	to confuse sth. (with sth. / and sth.)
+regnen	to rain
+weichen	rail turnout
+anvertrauen	to intrust
+kuppel	astrodome
+besuchte	to attend sth. (event, scene)
+gewerkschaft	trade union /TU/
+vorbeigekommen	to look up ⇆ sb.
+wrack	wreck
+knarren	shooter
+treibstoff	propellant for rockets
+signale	signal
+nachkommen	descendant
+hoppla	Oh
+verborgen	view (of sth.)
+belegt	to surface
+babylon	babylon
+waisenhaus	orphanage
+wurmloch	wormhole
+fee	fairy
+kommunisten	communist
+stiftung	endowment
+milo	sorghums (botanical genus)
+gestapo	Gestapo
+verreisen	travelling
+halleluja	hallelujah
+jammern	complaining
+maulwurf	mole
+konflikt	conflict
+turnier	tournament
+gebacken	to bake sth.
+taube	pigeon
+mais	maize [Br.]
+trieb	urge
+eigenschaften	property (of a thing)
+feder	quill
+elias	Elijah
+dessert	dessert
+rathaus	town hall
+drohungen	threat (to sb.)
+bewirken	to bring {brought
+wanne	vat
+durchkommen	pass (in an exam) [Br.]
+vertraute	confidant
+freuden	enjoyment (of an activity)
+dauer	duration
+verbessert	to emend sth.
+unerwartet	abrupt
+drogendealer	drug dealer
+fach	panel
+wohnungen	flat [Br.]
+kragen	collar
+mercedes	Mercedes (car brand)
+klirren	jingle
+valentinstag	Valentine’s Day
+anstelle	instead of
+plane	tarpaulin
+markiert	to mark out sth. (surveying)
+ehrenwort	word of honour [Br.]
+schlamm	mud
+diner	formal dinner
+handlung	action
+versauen	to bugger up [Br.] [coll.]
+klassiker	classic
+stange	hen-roost
+empfohlen	to endorse sth.
+rauswerfen	to throw out ⇆ sb.
+mechaniker	mechanic
+beichten	to confess
+professionell	professional (as opposed to amateur)
+meinerseits	on the part of sb.
+chirurg	medical surgeon
+wal	whale
+paare	couple (relationship between two people)
+aufgemacht	to undo
+obersten	chief
+note	mark [Br.]
+datei	computer file
+zugleich	simultaneously
+nackte	naked man
+bewundert	to admire sb. (for sth.)
+dimension	dimension
+wecker	alarm clock
+entstanden	to accrue
+kreischen	screaming
+lobby	interest group
+umgezogen	to move
+angeklagte	accused
+perlen	bead
+dutzende	dozen /doz./
+aufgezogen	to string
+campus	campus
+herd	hearth
+hospital	infirmary [Br.] [usually in proper names]
+aufsicht	view (of sth.)
+gegenstand	article
+tageslicht	light
+entworfen	to conceptualize sth.
+eingenommen	to absorb
+beichte	confession
+marina	marina
+wodurch	how
+entsprechend	observance (of sth.)
+wurst	slicing sausage
+notiz	note /N.B./ /NB/
+vorsprechen	audition
+bekannter	acquaintance
+antrieb	incentive
+zwerge	dwarf
+armut	poverty
+verbannt	to relegate sb. (out of sth.)
+parade	military parade
+angefahren	to put sth. into operation
+kindisch	childish
+kreisen	to gyrate
+bestrafung	punishment
+araber	Arab
+klebt	to paste sth. (to sth.)
+hummer	lobster
+wimmert	to pule
+drittel	third
+budget	budget
+lieferwagen	delivery vehicle
+verschwiegen	uncredited
+drang	urge
+chi	Chi
+erwartete	to wait for sth.
+tierarzt	veterinary surgeon /VS/ [Br.]
+cousins	(male) cousin
+zudem	in addition
+sturz	fall
+untergehen	to go bust
+abkommen	agreement
+erstatten	to refund
+verarbeiten	to manufacture (into)
+mandant	client (of a liberal professional)
+clubs	club
+widmen	to designate sth. as sth. (earmark)
+sprichwort	saying
+vergeltung	retribution
+gekleidet	to clothe {clothed, clad [obs.]
+fotografiert	to take a picture
+knallen	to slap sth. (onto a surface)
+immerzu	always
+schnurrbart	moustache [Br.]
+flut	flow
+haushalt	budget
+cleveland	Cleveland (city in the USA)
+ministerium	ministry
+aufgestellt	to range
+anker	anchor
+qual	(agonizing) ordeal
+rauschen	electric noise
+debatte	debate
+informant	(secret) informant
+masse	mass
+insekten	insect
+glotzt	to gawk
+schimmer	tint
+mordfall	murder
+verbieten	to ban
+terrorist	terrorist
+sirenen	alarm horn
+theorien	theory
+kichern	to giggle
+gestresst	strung out [slang]
+zeitschrift	magazine
+wildnis	wilderness
+menschlicher	human
+schlamassel	fine mess
+behindert	to beset sth.
+abstimmung	voting
+senat	court division
+mittags	at noon
+bridge	bridge (cards game)
+raucht	to smoke sth.
+jahreszeit	season
+want	shroud
+drucken	printing
+segel	sail
+taschentuch	handkerchief
+rockmusik	rock music
+beschleunigen	to accelerate
+lustiger	funny
+glocken	bell
+tennis	tennis
+seither	from now on
+christen	Christian
+kreuzung	bastard
+weiche	double parting
+punkten	to score
+reinlegen	to dupe sb.
+gefilmt	to film sth.
+hamilton	Hamilton (capital of Bermuda)
+bucht	bay
+bildschirm	screen
+saufen	drinking binge
+gehackt	hacked
+eminenz	eminence
+mailbox	voice mail system
+erschoss	to shoot sb. dead
+attentat	attempt on sb.’s life
+verschwendung	squandering
+bemerkte	to note sth.
+zischen	swish
+geschirr	harness (for draught animals)
+feiglinge	coward
+klaut	to lift sth.
+bon	voucher
+entwischt	to evade sb.
+masken	face mask
+vorname	name
+schwitzen	diaphoresis
+bourbon	whisky [Br.] [Can.]
+elefant	elephant
+gewebe	woven fabric
+sternzeit	sidereal time
+zerbrechen	breakage
+poker	poker game
+wechsel	interchange
+lesbe	lesbian
+konten	bank account
+schleichen	anguid lizards
+niedrig	humble
+klimaanlage	air-conditioning system
+vulkan	volcano
+lesbisch	lesbian
+platziert	seeded
+abgrund	abyss
+zeichnungen	drawing
+sinken	drop
+hamburg	Hamburg
+trauern	mourning
+abreise	departure
+klemmt	to pin
+passend	fittingly
+mittagspause	lunch break
+wettkampf	match
+verschluckt	to swallow (up)
+limo	carbonated soft drink
+erhebt	to extol
+beschwerde	complaint
+erregen	to energize
+benannt	labeled
+trommeln	pounding
+fortsetzen	to follow up
+geplatzt	to burst {burst
+locke	lock of hair
+nachnamen	family name
+anpassen	suiting
+altmodisch	corny
+teurer	expensive
+feuerzeug	cigarette lighter
+durchgegangen	to go through
+beseitigt	to abolish sth.
+alkoholiker	alcohol dependent [med.]
+elemente	unit
+heimweg	way home
+menschlichkeit	humanity
+geheimnisvolle	the mysteriousness
+befolgt	to obey sth.
+abreisen	depart
+premiere	first time
+schwingen	wing
+initiative	initiative
+telefone	telephone set
+strafzettel	fixed penalty notice /FPN/ [Br.]
+gelobt	to vow sth. to sb.
+uniformen	uniform
+pulver	powder
+welpen	whelp
+angesprochen	to address sb. (as)
+lebewohl	farewell
+reporterin	reporter
+crystal	crystal meth
+vorwand	excuse
+genervt	to annoy sb.
+kreditkarten	credit card
+durstig	thirsty
+eintreffen	arrival /arr./
+mitteln	to take the mean
+trauma	psychological trauma
+beobachtung	watch
+dergleichen	the like
+erwacht	to wake {woke, waked
+lebenslauf	curriculum vitae /CV/ /cv/ [Br.]
+anrufbeantworter	telephone answering device
+feiner	dressy
+verschoben	to scroll (the screen)
+zumachen	to cap
+relativ	relative
+lamm	lamb
+pier	lugworms
+widersprechen	to dissent
+dachboden	attic
+keinesfalls	under no circumstances
+duck	gunny canvas
+bislang	so far
+retter	rescuer
+transportieren	to haul sth. (to a place)
+spontan	whim
+verreist	to go away (on a trip)
+pullover	pullover
+ansprechen	reaction
+frischer	dewy
+spitzel	police informer
+dreckiger	dirty
+angeschlossen	affiliated
+fersen	heel
+vorbereitungen	preliminaries
+fortfahren	to proceed
+produzent	producer
+zwischenfall	incident
+pflege	health care
+rauslassen	to set down ⇆ sb.
+golden	golden
+nachforschungen	investigation
+kanzler	federal chancellor
+austin	Austin (city in the USA)
+sahne	cream
+binde	bandage
+zwiebeln	plant bulb
+schlitten	slide block (steam engine)
+jahrhunderte	century /c/ /cent./
+talente	gift
+erbarmen	pity
+vorgestern	the day before yesterday
+betreiben	instigation of sth.
+bemerkenswert	exceptional
+dinosaurier	Dinosaur
+wahrscheinlichkeit	plausibility
+worin	in what
+rabbi	rabbi
+nachfrage	enquiry [Br.]
+unwohl	funny
+pony	pony
+materie	matter
+leuchtet	to gleam
+irrt	to err
+vertrieben	to roust sb.
+gereicht	to proffer sb. sth. / sth. to sb. [formal]
+semester	semester
+unternommen	to make sth. {made
+gespart	to skimp on sth.
+geerbt	to inherit sth. (from sb.)
+glanz	sheen
+arrogant	arrogant
+ausgeliefert	to deliver sth. (to sb.)
+holland	Holland
+fotograf	photographer
+hinkriegen	to accomplish sth.
+speed	speed [slang]
+realistisch	workable
+kindergarten	nursery school
+streitet	to dispute
+kassette	cartridge
+kandidat	aspirant
+klempner	sheet-metal worker
+verliebte	people in love
+befahl	to command sth.
+spaghetti	spaghetti [mass noun]
+franzose	Frenchman
+dunkler	dusky
+gesendet	to beam
+schlauch	tubule
+grillen	barbecue
+landschaft	scenery
+funktion	feature
+anonym	anonymous
+veranstaltung	event session
+verpflichtungen	area of responsibility
+innerlich	inner
+madrid	Madrid (capital of Spain)
+regiert	to rule (over)
+aufschreiben	to mark down
+erleichterung	relief
+auktion	public sale
+regal	exclusive right
+fakt	fact
+niveau	level
+fahndung	law enforcement search
+friede	peace
+erlitten	to endure sth.
+mathematik	mathematics
+psycho	psychopath
+matratze	mattress
+mordwaffe	murder weapon
+wieviele	how many
+arbeitgeber	employer
+werkzeuge	instrument
+beruhigungsmittel	sedative
+kurzfristig	short
+erlangen	achievement
+weltall	universe
+vertuschen	to cover sth. up
+weckt	to awake {awoke, awaked
+gewagt	edgy (style, artist)
+nieren	kidney
+zinsen	interest
+einpacken	packing
+ballon	balloon
+verflixt	devilishly
+rudel	troop (of sb.)
+horizont	horizon
+sofia	Sofija
+dekan	dean (Catholic Church)
+umzug	parade
+darstellen	to display sth.
+limousine	limousine
+fracht	freight charge
+gedenken	remembrance
+aufgeschrieben	to write down ⇆ sth.
+handlungen	action
+struktur	set-up
+kerker	prison
+christ	Christian
+durchschaut	to be wise to sb./sth.
+nachname	family name
+birne	pear (fruit)
+vorgesehen	to specify sth.
+nachgesehen	to look up ⇆ sth. (in a book/on the Internet)
+predigt	sermon
+versehentlich	oversight
+schwerter	sword
+erwiesen	to manifest
+software	piece of software
+einschlagen	impact
+schiebt	to hustle sb. (to a place)
+geahnt	to have an idea of sth.
+eingriff	interference (with/in sth.)
+politisch	political
+zuflucht	resort
+generator	AC generator
+union	association /assoc./
+raven	to rave
+ungeduldig	short-tempered
+unklar	emphatic
+suspendiert	to suspend sth.
+arbeitsplatz	workplace
+treppen	stairs
+vereinen	to combine sth. with. sth.
+bruch	break
+unruhig	choppy
+platzt	to rupture
+plastik	plastic
+abgerissen	parted
+halber	half /hf/
+anvertraut	to entrust sth. to sb. / sb. with sth.
+leder	skin (of smaller/young animals)
+verfehlt	to fall short of sth.
+verehrte	to worship sb.
+schmutz	dirtiness
+rausbringen	to put out
+komitee	committee
+mamas	ma
+klarkommen	to get a grip on sth. (difficult)
+propheten	prophet
+durchsage	public announcement
+flora	flora
+stiefvater	stepfather
+grimm	gloom
+auftreiben	sewing thread
+nationen	nation
+ausgaben	issues
+entstand	to accrue
+alarmstufe	alert phase
+tauben	pigeon
+gewohnheit	habit
+beinhaltet	to contain sth.
+abgefeuert	to loose off
+davonkommen	to escape (with sth.)
+godzilla	Godzilla (Japanese movie monster)
+dreier	(number) three
+werwolf	werewolf
+denver	Denver (city in the USA)
+ehrgeiz	ambition
+dj	disc jockey
+zeichnung	grain
+geige	violin
+fortsetzung	follow-up (to sth.)
+japanisch	Japanese
+archiv	archive
+einholen	to overtake {overtook
+verheimlicht	to cover sth. up
+hacker	hacker
+hingabe	devotion (to)
+uhren	clock
+erobert	to conquer sth.
+bandit	bandit
+linien	line
+nerv	nerve
+sattel	anticline
+gelangweilt	to bore sb.
+intakt	intact
+poesie	poetic art
+pflegen	to cultivate [fig.]
+belastet	fraught
+yen	yen (currency)
+perspektive	prospect (of sth.)
+sperma	sperm
+hingelegt	to put down
+umzingelt	to beleaguer sth.
+buddha	Buddha
+bonus	bonus
+spucken	to crackle
+einlassen	to consort with sb.
+sorgerecht	child custody (of sb.)
+blinde	blind man
+gebot	bid (for sth.) (at an auction)
+ameisen	ant
+verleihen	lending
+bearbeitet	to work on sth.
+deckel	book case
+pentagon	pentagon
+frechheit	impertinence
+sinkt	to drop (of a thing)
+gastfreundschaft	hospitality
+enthalten	included
+schwamm	mushroom
+sperrt	to inhibit
+container	container
+aufsetzen	foot placement
+erstellen	compilation
+rausgeschmissen	to sack sb.
+vorgefallen	to happen
+herbringen	to bring sb./sth.
+freiwillige	volunteer
+korrigieren	to amend sth.
+leichnam	dead body
+schwebt	to hover
+vorsichtiger	careful
+pilze	mushroom
+achtet	to respect sb.
+meiden	avoidance (by a person)
+ansichten	sight
+isoliert	cloistered
+ausschlag	deflection
+aufruhr	agitation
+felder	farm field
+toiletten	toilet (private and public)
+quittung	pay-off
+portal	entrance portal
+investition	capital investment
+selbstvertrauen	self-confidence
+geschluckt	to swallow
+sendet	to send {sent
+taschenlampe	electric torch [Br.]
+justiz	judicature
+heer	army
+neapel	Naples (city in Italy)
+schuft	rapscallion
+instrument	instrument
+codes	code
+herzogin	duchess
+bumsen	to fuck
+entwickelte	to evolve sth.
+gegenmittel	remedy (for sth.)
+taktik	move
+studien	study
+dramatisch	dramatic
+potenzial	capability (of sth.)
+anpassung	accommodation
+jugendliche	teenager
+ass	ace (playing card)
+clowns	clown (entertainer at a circus etc.)
+gelingen	to succeed
+atlanta	Atlanta (city in the USA)
+ausgenutzt	to cash in on sth.
+maestro	maestro
+gier	cupidity (for)
+insbesondere	to include sth.
+angemeldet	to announce sb./sth. (to sb.)
+vorstellungen	performance
+massaker	massacre
+ausdenken	to come up with
+auspacken	to unpack
+heizung	heating (process)
+kolonie	colony
+gerichtssaal	courtroom
+donnerwetter	thunderstorm
+studentin	university student
+boom	economic boom
+gesichtet	to riddle sth.
+kleben	adhesive bonding
+ritt	ride
+bauten	constructions
+abgeschaltet	to log-off
+marquis	marquess
+teich	pond
+duell	duel
+keuchen	wheeze
+chirurgen	medical surgeon
+wange	cheek
+wiedergutmachen	to make amends
+vorbereitung	preparatory work
+kranker	invalid
+festplatte	hard disc [Br.]
+eingreifen	intervention (from sb. / on the part of sb.)
+portland	Portland (city in the USA)
+enorm	extremely
+sichtbar	unblanked
+vorschrift	provision
+jedermann	everyman
+substanz	substance
+amsterdam	Amsterdam (capital of the Netherlands)
+arbeitszimmer	study
+notwehr	self-defence
+patrouille	patrol (act of patrolling)
+gewitter	thunderstorm
+klappern	rattle noise
+schmetterling	butterfly
+enger	tight
+ausgetauscht	to exchange sth.
+baustelle	building site
+bewirkt	to trigger sth. (cause to happen)
+gerochen	to smell {smelled / smelt [Br.]
+broadway	Broadway
+starrt	to stare (at sth.)
+austauschen	to transpose
+schnellen	to flip
+beerdigt	to bury sb.
+abschlussball	end-of-course dance
+medaille	medal
+vielmehr	rather
+anschluss	linkage
+naht	fin
+basierend	to be based
+international	international
+abgelegt	to render (of)
+halluzinationen	hallucination
+festnahme	arrest (of sb.)
+pirat	pirate
+umwelt	environment
+axel	ice skating jump
+teilweise	part (of a whole)
+bearbeiten	processing (of a thing)
+fetter	fat
+ausgestellt	to issue
+orbit	orbit
+kapsel	capsule
+unbewaffnet	weaponless
+internat	boarding school
+zeile	row
+zeitalter	age
+neger	negro [dated]
+prediger	Holy Joe
+minen	mine
+sessel	armchair
+wegbringen	to see off ⇆ sb.
+weiterhelfen	to do the trick [coll.]
+verpflichtung	tie
+geparkt	to park a vehicle
+gerichtsmediziner	specialist in forensic medicine
+bluse	blouse
+gegenleistung	return service
+kehre	horseshoe curve (railway)
+helfer	helper
+aufstieg	ascension
+entkommt	to escape
+partie	work gang
+verdeckt	view (of sth.)
+abfall	refuse
+hauptrolle	chief part
+tarzan	Tarzan
+klingel	ringer (in a telephone)
+flirten	flirt
+spanier	Spaniard
+taxifahrer	taxi driver
+blockieren	to jam
+wechselt	to alternate 
+erforschen	exploration (of sth.)
+scanner	scanner
+eisenbahn	railway [Br.]
+rumsitzen	to sit around
+munter	chipper
+zugesehen	to watch (sb.)
+karma	karma
+provinz	province
+mitgemacht	to take part in sth.
+kritisch	discerning (of a person)
+gesunden	to recover
+finanziert	to finance sth.
+busen	bosom 
+erlebnis	experience
+vaterland	fatherland
+bitter	bitter (taste sensation)
+schleier	haze (on a surface)
+notarzt	emergency doctor
+krimineller	criminal
+durchatmen	to breathe deeply
+stopfen	stopper
+monatelang	months-long
+effekt	effect
+einlegen	to pickle (cucumbers)
+verwirrung	disorientation
+instrumente	instrument
+mailand	Milan (city in Italy)
+belassen	to retain sth.
+latein	Latin
+grundlage	(factual) justification
+reihenfolge	succession
+arena	amphitheatre [Br.]
+ballett	ballet
+luder	floozie
+werke	work
+verfolgung	trace
+exemplar	copy
+bedauerlich	regrettable
+cd	compact disc [Br.]
+finanzieren	to bankroll
+anstalt	establishment
+vorbeischauen	to look up ⇆ sb.
+pakt	pact
+damm	perineum
+laser	laser
+derart	so much
+versammeln	to gather sb.
+info	piece of information
+gedeckt	to hedge (stock exchange)
+positionen	position
+chemikalien	chemical
+anhaben	to wear sth. {wore
+mississippi	Mississippi (river)
+unterschlupf	hideout
+hemden	shirt
+besen	battleaxe [Br.]
+jazz	jazz music
+eilt	to rush
+vorwerfen	to impute sth. to sb.

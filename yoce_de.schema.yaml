@@ -1,0 +1,51 @@
+# yoce_de.schema.yaml
+schema:
+  schema_id: yoce_de
+  name: Yoce Deutsch
+  version: "2026-01-30"
+  author:
+    - yorelog
+  description: 德语输入，动态生成 ä ö ü ß 变体，候选显示英文释义。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ASCII-OFF, ASCII-ON]
+
+engine:
+  processors:
+    - ascii_composer
+    - key_binder
+    - speller
+    - recognizer
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - matcher
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - lua_translator@*yoce_de
+    - punct_translator
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyzäöüßABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜẞ-"
+  delimiter: " '"
+
+translator:
+  always_show_comments: true
+  keep_comments: true
+
+key_binder:
+  import_preset: default
+
+punctuator:
+  import_preset: default
+
+recognizer:
+  import_preset: default
