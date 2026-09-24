@@ -1,4 +1,4 @@
-# yoce_de — Deutsches Eingabeschema für Rime
+# Deutsches Eingabeschema für Rime
 
 [English](README.md) | [简体中文](README_CN.md) | Deutsch
 

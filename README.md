@@ -1,4 +1,4 @@
-# yoce_de — German input schema for Rime
+# German input schema for Rime
 
 English | [简体中文](README_CN.md) | [Deutsch](README_DE.md)
 

@@ -1,4 +1,4 @@
-# yoce_de — Rime 德语输入方案
+# Rime 德语输入方案
 
 [English](README.md) | 简体中文 | [Deutsch](README_DE.md)
 
